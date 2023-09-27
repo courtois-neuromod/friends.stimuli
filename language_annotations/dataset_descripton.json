@@ -1,0 +1,71 @@
+{
+    "Name": "Friends language annotations",
+    "Dataset": {
+        "Format": "One .json file per each .mkv file", 
+        "Content": "Each .json file contains three attribute per the aligned word which are:",
+        "Data": {
+            "word": "Aligned word passing in the transcripts extracted from the original DVDs.",
+            "start": "The onset of the aligned word", 
+            "end": "The offset of the aligned word"
+        }
+    }, 
+
+    "Dataset Counts": {
+         "Numer of Seasons": "10",
+         "Number of words": "711,496", 
+         "Number of unique words": "22,951",
+         "Total Number tokens (Byte-Pair Encoding)": "1,063,767", 
+         "Total number of unique tokens (Byte-Pair Encoding)" : "36,068",
+         "Number of words per season": {
+            "s1": "65801",
+            "s2": "68735",
+            "s3": "73342",
+            "s4": "68768",
+            "s5": "70797",
+            "s6": "74764",
+            "s7": "72583",
+            "s8": "75240",
+            "s9": "81983",
+            "s10": "59482"
+        },
+        "Number of unique words per season": {
+            "s1": "4797",
+            "s2": "4947",
+            "s3": "5045",
+            "s4": "4416",
+            "s5": "4415",
+            "s6": "4261",
+            "s7": "4871",
+            "s8": "5049",
+            "s9": "5574",
+            "s10": "4523"
+        },
+         "Numer of lines per season": {           
+            "s1": "12379",
+            "s2": "12894",
+            "s3": "13937",
+            "s4": "13096",
+            "s5": "13005",
+            "s6": "13451",
+            "s7": "12765",
+            "s8": "13030",
+            "s9": "13887",
+            "s10": "10254"
+        }, 
+
+        "Total number of narrators": "359 narrators",
+
+        "Number of lines per top ten narrators": {
+            "Rachel": "9073",
+            "Ross": "9011",
+            "Chandler" : "8320", 
+            "Monica": "8235",
+            "Joey": "8139",
+            "Phoebe": "7353",
+            "Mike": "359",
+            "All": "388",
+            "Richard": "245",
+            "Janice": "217"
+        }    
+    }
+}
