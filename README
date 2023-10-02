@@ -2,5 +2,9 @@
 
 The CNeuroMod data and their derivatives are shared under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/legalcode) that is under the ownership of the CNeuroMod team and the participants.
 
+The data contains language annotations (force-aligned time-stamps for each of the word)for the transcript extracted from the original Friends DVDs. Alongside the alignment we also provide two csv files which contain the full transcripts obtained from the DVDs and crowd-sourced transcript. The structure of the utterances extracted from the original DVDs were maintained as original, therefore the number of utterances of the orignal and crowd-sourced transcripts might differ. 
+
+
+
 This dataset contains copyrighted material and thus, those materials are not covered by the license listed above. The materials in question are shared only for the purpose of scientific research, and  this use case falls under Canada’s Fair Dealing policy on use of copyrighted materials. However,  the proper use of copyrighted materials may vary depending on countries and use cases. Please check each dataset carefully prior to use and acquire a legal copy if necessary.
 The scripts required to regenerate stimuli files from raw commercial products can be found in this repository.
