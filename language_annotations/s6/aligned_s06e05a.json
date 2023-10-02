@@ -1,0 +1,7432 @@
+[
+    {
+        "word": "I",
+        "start": 0.0125,
+        "end": 0.0425
+    },
+    {
+        "word": "CANNOT",
+        "start": 0.0425,
+        "end": 0.1925
+    },
+    {
+        "word": "BELIEVE",
+        "start": 0.1925,
+        "end": 0.3425
+    },
+    {
+        "word": "THAT",
+        "start": 0.3425,
+        "end": 0.4325
+    },
+    {
+        "word": "YOU",
+        "start": 0.4325,
+        "end": 0.4925
+    },
+    {
+        "word": "DIDN'T",
+        "start": 0.4925,
+        "end": 0.6125
+    },
+    {
+        "word": "TELL",
+        "start": 0.6125,
+        "end": 0.7025
+    },
+    {
+        "word": "ME",
+        "start": 0.7025,
+        "end": 4.5125
+    },
+    {
+        "word": "WE",
+        "start": 4.9325,
+        "end": 5.6025
+    },
+    {
+        "word": "ARE",
+        "start": 5.6025,
+        "end": 5.7525
+    },
+    {
+        "word": "STILL",
+        "start": 5.7525,
+        "end": 6.5125
+    },
+    {
+        "word": "MARRIED",
+        "start": 6.8925,
+        "end": 7.5525
+    },
+    {
+        "word": "LOOK",
+        "start": 7.8925,
+        "end": 8.1025
+    },
+    {
+        "word": "I",
+        "start": 8.1025,
+        "end": 8.2125
+    },
+    {
+        "word": "WAS",
+        "start": 8.2125,
+        "end": 8.4125
+    },
+    {
+        "word": "GOING",
+        "start": 8.4125,
+        "end": 8.7525
+    },
+    {
+        "word": "TO",
+        "start": 8.7525,
+        "end": 8.8725
+    },
+    {
+        "word": "TELL",
+        "start": 8.8725,
+        "end": 9.2425
+    },
+    {
+        "word": "YOU",
+        "start": 9.2425,
+        "end": 9.6925
+    },
+    {
+        "word": "WHEN",
+        "start": 9.7325,
+        "end": 9.8925
+    },
+    {
+        "word": "AFTER",
+        "start": 9.8925,
+        "end": 10.3325
+    },
+    {
+        "word": "THE",
+        "start": 10.3325,
+        "end": 10.4125
+    },
+    {
+        "word": "BIRTH",
+        "start": 10.4125,
+        "end": 10.7025
+    },
+    {
+        "word": "OF",
+        "start": 10.7025,
+        "end": 10.7925
+    },
+    {
+        "word": "OUR",
+        "start": 10.7925,
+        "end": 10.9325
+    },
+    {
+        "word": "FIRST",
+        "start": 10.9325,
+        "end": 11.2125
+    },
+    {
+        "word": "SECRET",
+        "start": 11.2125,
+        "end": 11.6225
+    },
+    {
+        "word": "CHILD",
+        "start": 11.6325,
+        "end": 12.2625
+    },
+    {
+        "word": "ROSS",
+        "start": 12.7025,
+        "end": 13.4525
+    },
+    {
+        "word": "DIDN'T",
+        "start": 14.0225,
+        "end": 14.5325
+    },
+    {
+        "word": "GET",
+        "start": 14.5325,
+        "end": 14.7125
+    },
+    {
+        "word": "THE",
+        "start": 14.7125,
+        "end": 14.8025
+    },
+    {
+        "word": "ANNULMENT",
+        "start": 14.8025,
+        "end": 15.2325
+    },
+    {
+        "word": "WE",
+        "start": 15.3825,
+        "end": 15.5225
+    },
+    {
+        "word": "ARE",
+        "start": 15.5225,
+        "end": 15.5925
+    },
+    {
+        "word": "STILL",
+        "start": 15.5925,
+        "end": 15.9525
+    },
+    {
+        "word": "MARRIED",
+        "start": 15.9525,
+        "end": 16.4225
+    },
+    {
+        "word": "WHAT",
+        "start": 16.6425,
+        "end": 17.1525
+    },
+    {
+        "word": "OH",
+        "start": 17.1525,
+        "end": 17.5325
+    },
+    {
+        "word": "MY",
+        "start": 17.5325,
+        "end": 17.6925
+    },
+    {
+        "word": "GOD",
+        "start": 17.6925,
+        "end": 18.2825
+    },
+    {
+        "word": "ROSS",
+        "start": 21.2025,
+        "end": 21.9825
+    },
+    {
+        "word": "OKAY",
+        "start": 22.0625,
+        "end": 22.2725
+    },
+    {
+        "word": "MAYBE",
+        "start": 22.2725,
+        "end": 22.5925
+    },
+    {
+        "word": "IT",
+        "start": 22.5925,
+        "end": 22.6525
+    },
+    {
+        "word": "WASN'T",
+        "start": 22.6525,
+        "end": 22.9325
+    },
+    {
+        "word": "MY",
+        "start": 22.9325,
+        "end": 23.1025
+    },
+    {
+        "word": "BEST",
+        "start": 23.1025,
+        "end": 23.5225
+    },
+    {
+        "word": "DECISION",
+        "start": 23.5225,
+        "end": 24.0425
+    },
+    {
+        "word": "BUT",
+        "start": 24.0425,
+        "end": 24.1425
+    },
+    {
+        "word": "I",
+        "start": 24.1425,
+        "end": 24.2025
+    },
+    {
+        "word": "JUST",
+        "start": 24.2025,
+        "end": 24.4425
+    },
+    {
+        "word": "COULDN'T",
+        "start": 24.4425,
+        "end": 24.6625
+    },
+    {
+        "word": "FACE",
+        "start": 24.6625,
+        "end": 24.9125
+    },
+    {
+        "word": "ANOTHER",
+        "start": 24.9125,
+        "end": 25.1725
+    },
+    {
+        "word": "FAILED",
+        "start": 25.1725,
+        "end": 25.6025
+    },
+    {
+        "word": "MARRIAGE",
+        "start": 25.6025,
+        "end": 26.3625
+    },
+    {
+        "word": "LET",
+        "start": 26.6725,
+        "end": 26.9025
+    },
+    {
+        "word": "ME",
+        "start": 26.9025,
+        "end": 26.9725
+    },
+    {
+        "word": "JUST",
+        "start": 26.9725,
+        "end": 27.1325
+    },
+    {
+        "word": "JUMP",
+        "start": 27.1325,
+        "end": 27.3525
+    },
+    {
+        "word": "IN",
+        "start": 27.3525,
+        "end": 27.4525
+    },
+    {
+        "word": "AND",
+        "start": 27.4525,
+        "end": 27.5425
+    },
+    {
+        "word": "ASK",
+        "start": 27.5425,
+        "end": 27.8625
+    },
+    {
+        "word": "AT",
+        "start": 27.9225,
+        "end": 28.0125
+    },
+    {
+        "word": "WHAT",
+        "start": 28.0125,
+        "end": 28.2425
+    },
+    {
+        "word": "POINT",
+        "start": 28.2425,
+        "end": 28.4625
+    },
+    {
+        "word": "DID",
+        "start": 28.4625,
+        "end": 28.5525
+    },
+    {
+        "word": "YOU",
+        "start": 28.5525,
+        "end": 28.6125
+    },
+    {
+        "word": "THINK",
+        "start": 28.6125,
+        "end": 28.8425
+    },
+    {
+        "word": "THIS",
+        "start": 28.8425,
+        "end": 29.0125
+    },
+    {
+        "word": "WAS",
+        "start": 29.0125,
+        "end": 29.1725
+    },
+    {
+        "word": "A",
+        "start": 29.1725,
+        "end": 29.2125
+    },
+    {
+        "word": "SUCCESSFUL",
+        "start": 29.2125,
+        "end": 29.7725
+    },
+    {
+        "word": "MARRIAGE",
+        "start": 29.7725,
+        "end": 30.0625
+    },
+    {
+        "word": "RACH",
+        "start": 30.1725,
+        "end": 31.5325
+    },
+    {
+        "word": "COME",
+        "start": 33.0525,
+        "end": 33.5625
+    },
+    {
+        "word": "ON",
+        "start": 33.5625,
+        "end": 33.7225
+    },
+    {
+        "word": "IF",
+        "start": 33.7225,
+        "end": 34.1325
+    },
+    {
+        "word": "YOU",
+        "start": 34.1325,
+        "end": 34.2025
+    },
+    {
+        "word": "THINK",
+        "start": 34.2025,
+        "end": 34.4625
+    },
+    {
+        "word": "ABOUT",
+        "start": 34.4625,
+        "end": 34.7625
+    },
+    {
+        "word": "IT",
+        "start": 34.7625,
+        "end": 35.1225
+    },
+    {
+        "word": "IT'S",
+        "start": 35.1225,
+        "end": 35.2925
+    },
+    {
+        "word": "ACTUALLY",
+        "start": 35.2925,
+        "end": 35.7025
+    },
+    {
+        "word": "KIND",
+        "start": 35.7025,
+        "end": 35.9725
+    },
+    {
+        "word": "OF",
+        "start": 35.9725,
+        "end": 36.2225
+    },
+    {
+        "word": "FUNNY",
+        "start": 36.3825,
+        "end": 36.9225
+    },
+    {
+        "word": "MAYBE",
+        "start": 37.3225,
+        "end": 37.6325
+    },
+    {
+        "word": "IT'S",
+        "start": 39.8525,
+        "end": 40.3525
+    },
+    {
+        "word": "BEST",
+        "start": 40.3525,
+        "end": 40.6225
+    },
+    {
+        "word": "NOT",
+        "start": 40.6225,
+        "end": 40.8225
+    },
+    {
+        "word": "TO",
+        "start": 40.8225,
+        "end": 40.9225
+    },
+    {
+        "word": "THINK",
+        "start": 40.9225,
+        "end": 41.1625
+    },
+    {
+        "word": "ABOUT",
+        "start": 41.1625,
+        "end": 41.5425
+    },
+    {
+        "word": "IT",
+        "start": 43.1025,
+        "end": 43.3725
+    },
+    {
+        "word": "THIS",
+        "start": 43.4325,
+        "end": 43.7625
+    },
+    {
+        "word": "IS",
+        "start": 43.7625,
+        "end": 43.9325
+    },
+    {
+        "word": "INEXCUSABLE",
+        "start": 43.9325,
+        "end": 45.0025
+    },
+    {
+        "word": "I",
+        "start": 45.0025,
+        "end": 45.1725
+    },
+    {
+        "word": "AM",
+        "start": 45.2125,
+        "end": 45.2725
+    },
+    {
+        "word": "SHOCKED",
+        "start": 45.2725,
+        "end": 45.6325
+    },
+    {
+        "word": "TO",
+        "start": 45.6325,
+        "end": 45.7625
+    },
+    {
+        "word": "MY",
+        "start": 45.7625,
+        "end": 45.9525
+    },
+    {
+        "word": "VERY",
+        "start": 45.9525,
+        "end": 46.2925
+    },
+    {
+        "word": "CORE",
+        "start": 46.2925,
+        "end": 46.8525
+    },
+    {
+        "word": "PHOEBE",
+        "start": 49.2125,
+        "end": 49.5725
+    },
+    {
+        "word": "I",
+        "start": 49.5725,
+        "end": 49.6625
+    },
+    {
+        "word": "TOLD",
+        "start": 49.6625,
+        "end": 49.9925
+    },
+    {
+        "word": "HER",
+        "start": 49.9925,
+        "end": 50.0525
+    },
+    {
+        "word": "YOU",
+        "start": 50.0525,
+        "end": 50.2625
+    },
+    {
+        "word": "ALREADY",
+        "start": 50.2625,
+        "end": 50.5825
+    },
+    {
+        "word": "KNEW",
+        "start": 50.5825,
+        "end": 50.9925
+    },
+    {
+        "word": "ANOTHER",
+        "start": 55.0425,
+        "end": 55.5225
+    },
+    {
+        "word": "LIE",
+        "start": 55.5225,
+        "end": 55.8825
+    },
+    {
+        "word": "YOU",
+        "start": 55.9425,
+        "end": 56.1225
+    },
+    {
+        "word": "HAVE",
+        "start": 56.1225,
+        "end": 56.2725
+    },
+    {
+        "word": "A",
+        "start": 56.2725,
+        "end": 56.3025
+    },
+    {
+        "word": "SICKNESS",
+        "start": 56.3025,
+        "end": 57.1025
+    },
+    {
+        "word": "ROSS",
+        "start": 57.2725,
+        "end": 58.3525
+    },
+    {
+        "word": "JUST",
+        "start": 59.5225,
+        "end": 59.8625
+    },
+    {
+        "word": "FOR",
+        "start": 59.8625,
+        "end": 59.9825
+    },
+    {
+        "word": "MY",
+        "start": 59.9825,
+        "end": 60.0725
+    },
+    {
+        "word": "OWN",
+        "start": 60.0725,
+        "end": 60.2725
+    },
+    {
+        "word": "PEACE",
+        "start": 60.2725,
+        "end": 60.5425
+    },
+    {
+        "word": "OF",
+        "start": 60.5425,
+        "end": 60.6125
+    },
+    {
+        "word": "MIND",
+        "start": 60.6125,
+        "end": 60.9525
+    },
+    {
+        "word": "YOU'RE",
+        "start": 60.9525,
+        "end": 61.0525
+    },
+    {
+        "word": "NOT",
+        "start": 61.0525,
+        "end": 61.1625
+    },
+    {
+        "word": "MARRIED",
+        "start": 61.1625,
+        "end": 61.4125
+    },
+    {
+        "word": "TO",
+        "start": 61.4125,
+        "end": 61.4725
+    },
+    {
+        "word": "ANY",
+        "start": 61.4725,
+        "end": 61.5825
+    },
+    {
+        "word": "MORE",
+        "start": 61.5825,
+        "end": 61.8625
+    },
+    {
+        "word": "OF",
+        "start": 61.8625,
+        "end": 62.3025
+    },
+    {
+        "word": "US",
+        "start": 62.5725,
+        "end": 63.5525
+    },
+    {
+        "word": "ARE",
+        "start": 63.5525,
+        "end": 63.5825
+    },
+    {
+        "word": "YOU",
+        "start": 63.8725,
+        "end": 63.9325
+    },
+    {
+        "word": "LOOK",
+        "start": 64.9325,
+        "end": 65.3425
+    },
+    {
+        "word": "RACH",
+        "start": 65.5525,
+        "end": 65.8525
+    },
+    {
+        "word": "I",
+        "start": 65.8525,
+        "end": 66.1125
+    },
+    {
+        "word": "I",
+        "start": 66.1125,
+        "end": 66.2325
+    },
+    {
+        "word": "WAS",
+        "start": 66.2325,
+        "end": 66.4125
+    },
+    {
+        "word": "GOING",
+        "start": 66.4125,
+        "end": 66.6625
+    },
+    {
+        "word": "TO",
+        "start": 66.6625,
+        "end": 66.7825
+    },
+    {
+        "word": "TELL",
+        "start": 66.7825,
+        "end": 67.0325
+    },
+    {
+        "word": "YOU",
+        "start": 67.0325,
+        "end": 67.2925
+    },
+    {
+        "word": "I",
+        "start": 67.2925,
+        "end": 67.4125
+    },
+    {
+        "word": "JUST",
+        "start": 67.4125,
+        "end": 67.6925
+    },
+    {
+        "word": "WANTED",
+        "start": 67.6925,
+        "end": 67.9625
+    },
+    {
+        "word": "TO",
+        "start": 67.9625,
+        "end": 68.0225
+    },
+    {
+        "word": "DO",
+        "start": 68.0225,
+        "end": 68.2825
+    },
+    {
+        "word": "IT",
+        "start": 68.2825,
+        "end": 68.4525
+    },
+    {
+        "word": "UM",
+        "start": 68.4525,
+        "end": 69.0525
+    },
+    {
+        "word": "YOU",
+        "start": 69.0525,
+        "end": 69.1825
+    },
+    {
+        "word": "KNOW",
+        "start": 69.1825,
+        "end": 69.2825
+    },
+    {
+        "word": "MY",
+        "start": 69.2825,
+        "end": 69.5125
+    },
+    {
+        "word": "OWN",
+        "start": 69.5125,
+        "end": 69.7525
+    },
+    {
+        "word": "WAY",
+        "start": 69.7525,
+        "end": 70.0625
+    },
+    {
+        "word": "AH",
+        "start": 70.0925,
+        "end": 70.4225
+    },
+    {
+        "word": "YES",
+        "start": 70.4225,
+        "end": 70.7425
+    },
+    {
+        "word": "SILENTLY",
+        "start": 70.7425,
+        "end": 71.3325
+    },
+    {
+        "word": "WITH",
+        "start": 71.3325,
+        "end": 71.5125
+    },
+    {
+        "word": "NO",
+        "start": 71.5125,
+        "end": 71.6725
+    },
+    {
+        "word": "WORDS",
+        "start": 71.6725,
+        "end": 72.1725
+    },
+    {
+        "word": "HEY",
+        "start": 72.2925,
+        "end": 73.6225
+    },
+    {
+        "word": "HEY",
+        "start": 73.6225,
+        "end": 73.8825
+    },
+    {
+        "word": "HEY",
+        "start": 73.8825,
+        "end": 74.1525
+    },
+    {
+        "word": "HEY",
+        "start": 74.1525,
+        "end": 74.4825
+    },
+    {
+        "word": "HEY",
+        "start": 74.7725,
+        "end": 75.1325
+    },
+    {
+        "word": "HEY",
+        "start": 76.0325,
+        "end": 76.2425
+    },
+    {
+        "word": "LOOK",
+        "start": 78.0925,
+        "end": 78.2225
+    },
+    {
+        "word": "IN",
+        "start": 78.2925,
+        "end": 78.5425
+    },
+    {
+        "word": "ROSS'",
+        "start": 78.5425,
+        "end": 79.2925
+    },
+    {
+        "word": "DEFENSE",
+        "start": 79.3725,
+        "end": 80.1125
+    },
+    {
+        "word": "OKAY",
+        "start": 80.7225,
+        "end": 81.0925
+    },
+    {
+        "word": "YO",
+        "start": 84.5425,
+        "end": 84.6025
+    },
+    {
+        "word": "HEY",
+        "start": 87.2225,
+        "end": 122.8225
+    },
+    {
+        "word": "SOMEONE",
+        "start": 122.8225,
+        "end": 126.9025
+    },
+    {
+        "word": "LEFT",
+        "start": 127.0525,
+        "end": 127.3925
+    },
+    {
+        "word": "THEIR",
+        "start": 127.3925,
+        "end": 127.4925
+    },
+    {
+        "word": "KEYS",
+        "start": 127.4925,
+        "end": 127.9625
+    },
+    {
+        "word": "OOH",
+        "start": 128.4125,
+        "end": 129.2625
+    },
+    {
+        "word": "TO",
+        "start": 129.2625,
+        "end": 129.6425
+    },
+    {
+        "word": "A",
+        "start": 129.6425,
+        "end": 129.6725
+    },
+    {
+        "word": "PORSCHE",
+        "start": 129.6725,
+        "end": 130.4625
+    },
+    {
+        "word": "HUH",
+        "start": 131.0225,
+        "end": 131.2225
+    },
+    {
+        "word": "HEY",
+        "start": 131.8925,
+        "end": 132.0125
+    },
+    {
+        "word": "GUNTHER",
+        "start": 132.0125,
+        "end": 132.3425
+    },
+    {
+        "word": "THESE",
+        "start": 132.3425,
+        "end": 132.5125
+    },
+    {
+        "word": "YOURS",
+        "start": 132.5125,
+        "end": 132.9325
+    },
+    {
+        "word": "YEAH",
+        "start": 133.0225,
+        "end": 133.2825
+    },
+    {
+        "word": "THAT'S",
+        "start": 133.3625,
+        "end": 133.5825
+    },
+    {
+        "word": "WHAT",
+        "start": 133.5825,
+        "end": 133.6725
+    },
+    {
+        "word": "I",
+        "start": 133.6725,
+        "end": 133.7625
+    },
+    {
+        "word": "DRIVE",
+        "start": 133.7625,
+        "end": 134.0425
+    },
+    {
+        "word": "I",
+        "start": 134.7325,
+        "end": 135.4525
+    },
+    {
+        "word": "MAKE",
+        "start": 136.0625,
+        "end": 136.2525
+    },
+    {
+        "word": "FOUR",
+        "start": 136.3025,
+        "end": 136.5025
+    },
+    {
+        "word": "BUCKS",
+        "start": 136.5025,
+        "end": 136.7625
+    },
+    {
+        "word": "AN",
+        "start": 136.7625,
+        "end": 136.8525
+    },
+    {
+        "word": "HOUR",
+        "start": 136.8525,
+        "end": 137.1525
+    },
+    {
+        "word": "I",
+        "start": 137.1525,
+        "end": 137.2725
+    },
+    {
+        "word": "SAVED",
+        "start": 137.2725,
+        "end": 137.6425
+    },
+    {
+        "word": "UP",
+        "start": 137.6425,
+        "end": 137.7625
+    },
+    {
+        "word": "FOR",
+        "start": 137.7625,
+        "end": 137.9125
+    },
+    {
+        "word": "350",
+        "start": 137.9125,
+        "end": 138.7425
+    },
+    {
+        "word": "YEARS",
+        "start": 138.7425,
+        "end": 139.1925
+    },
+    {
+        "word": "NUH",
+        "start": 139.5125,
+        "end": 139.6725
+    },
+    {
+        "word": "UH",
+        "start": 142.1525,
+        "end": 142.9725
+    },
+    {
+        "word": "HEY",
+        "start": 142.9725,
+        "end": 145.9125
+    },
+    {
+        "word": "DID",
+        "start": 145.9125,
+        "end": 146.0725
+    },
+    {
+        "word": "ANYBODY",
+        "start": 146.0725,
+        "end": 146.4325
+    },
+    {
+        "word": "LOSE",
+        "start": 146.4325,
+        "end": 146.6125
+    },
+    {
+        "word": "THEIR",
+        "start": 146.6125,
+        "end": 146.7025
+    },
+    {
+        "word": "KEYS",
+        "start": 146.7025,
+        "end": 147.2625
+    },
+    {
+        "word": "JOEY",
+        "start": 147.4025,
+        "end": 147.8625
+    },
+    {
+        "word": "WHY",
+        "start": 147.9025,
+        "end": 147.9625
+    },
+    {
+        "word": "DON'T",
+        "start": 147.9625,
+        "end": 148.1225
+    },
+    {
+        "word": "YOU",
+        "start": 148.1225,
+        "end": 148.1825
+    },
+    {
+        "word": "PUT",
+        "start": 148.1825,
+        "end": 148.3325
+    },
+    {
+        "word": "THEM",
+        "start": 148.3325,
+        "end": 148.6525
+    },
+    {
+        "word": "IN",
+        "start": 148.6525,
+        "end": 148.8025
+    },
+    {
+        "word": "THE",
+        "start": 149.5125,
+        "end": 149.6925
+    },
+    {
+        "word": "LOST",
+        "start": 149.6925,
+        "end": 149.9725
+    },
+    {
+        "word": "AND",
+        "start": 149.9725,
+        "end": 150.0625
+    },
+    {
+        "word": "FOUND",
+        "start": 150.0625,
+        "end": 150.2825
+    },
+    {
+        "word": "THERE'S",
+        "start": 151.6725,
+        "end": 151.8125
+    },
+    {
+        "word": "A",
+        "start": 152.4525,
+        "end": 152.4925
+    },
+    {
+        "word": "LOST",
+        "start": 152.5425,
+        "end": 152.9725
+    },
+    {
+        "word": "AND",
+        "start": 152.9725,
+        "end": 153.3525
+    },
+    {
+        "word": "FOUND",
+        "start": 153.5925,
+        "end": 154.8525
+    },
+    {
+        "word": "MY",
+        "start": 155.1225,
+        "end": 155.2025
+    },
+    {
+        "word": "SHOE",
+        "start": 155.3525,
+        "end": 155.4125
+    },
+    {
+        "word": "YOU",
+        "start": 155.6125,
+        "end": 155.7125
+    },
+    {
+        "word": "LEFT",
+        "start": 155.7125,
+        "end": 155.9525
+    },
+    {
+        "word": "A",
+        "start": 155.9525,
+        "end": 155.9925
+    },
+    {
+        "word": "SHOE",
+        "start": 155.9925,
+        "end": 156.3925
+    },
+    {
+        "word": "HERE",
+        "start": 156.3925,
+        "end": 156.7625
+    },
+    {
+        "word": "WELL",
+        "start": 156.9925,
+        "end": 157.6725
+    },
+    {
+        "word": "I",
+        "start": 157.7725,
+        "end": 157.8625
+    },
+    {
+        "word": "DIDN'T",
+        "start": 157.8625,
+        "end": 158.0525
+    },
+    {
+        "word": "REALIZE",
+        "start": 158.0525,
+        "end": 158.4425
+    },
+    {
+        "word": "TILL",
+        "start": 158.4425,
+        "end": 158.6025
+    },
+    {
+        "word": "I",
+        "start": 158.6025,
+        "end": 158.6625
+    },
+    {
+        "word": "GOT",
+        "start": 158.6625,
+        "end": 158.8525
+    },
+    {
+        "word": "HOME",
+        "start": 158.8525,
+        "end": 159.1825
+    },
+    {
+        "word": "I",
+        "start": 159.1825,
+        "end": 159.2425
+    },
+    {
+        "word": "WASN'T",
+        "start": 159.2425,
+        "end": 159.5025
+    },
+    {
+        "word": "GOING",
+        "start": 159.5025,
+        "end": 159.6525
+    },
+    {
+        "word": "TO",
+        "start": 159.6525,
+        "end": 159.7225
+    },
+    {
+        "word": "WALK",
+        "start": 159.7225,
+        "end": 159.8125
+    },
+    {
+        "word": "ALL",
+        "start": 159.8125,
+        "end": 159.8725
+    },
+    {
+        "word": "THE",
+        "start": 159.8725,
+        "end": 159.9325
+    },
+    {
+        "word": "WAY",
+        "start": 159.9325,
+        "end": 160.0525
+    },
+    {
+        "word": "BACK",
+        "start": 160.0525,
+        "end": 160.2525
+    },
+    {
+        "word": "DOWN",
+        "start": 160.2525,
+        "end": 160.5025
+    },
+    {
+        "word": "HERE",
+        "start": 160.5025,
+        "end": 160.6025
+    },
+    {
+        "word": "WITH",
+        "start": 160.6025,
+        "end": 160.7025
+    },
+    {
+        "word": "ONE",
+        "start": 160.7025,
+        "end": 160.8825
+    },
+    {
+        "word": "SHOE",
+        "start": 160.8825,
+        "end": 161.3125
+    },
+    {
+        "word": "I'M",
+        "start": 161.5025,
+        "end": 162.7525
+    },
+    {
+        "word": "GOING",
+        "start": 163.2025,
+        "end": 163.5225
+    },
+    {
+        "word": "TO",
+        "start": 164.0225,
+        "end": 164.2825
+    },
+    {
+        "word": "GO",
+        "start": 164.2825,
+        "end": 164.4225
+    },
+    {
+        "word": "FIND",
+        "start": 164.4225,
+        "end": 164.7825
+    },
+    {
+        "word": "THAT",
+        "start": 164.7825,
+        "end": 164.9325
+    },
+    {
+        "word": "GUY'S",
+        "start": 164.9325,
+        "end": 165.2225
+    },
+    {
+        "word": "CAR",
+        "start": 165.2225,
+        "end": 165.4825
+    },
+    {
+        "word": "AND",
+        "start": 165.4825,
+        "end": 165.5725
+    },
+    {
+        "word": "LEAVE",
+        "start": 165.5725,
+        "end": 165.7225
+    },
+    {
+        "word": "A",
+        "start": 165.7225,
+        "end": 165.7625
+    },
+    {
+        "word": "NOTE",
+        "start": 165.7625,
+        "end": 166.0325
+    },
+    {
+        "word": "ON",
+        "start": 166.0325,
+        "end": 166.1225
+    },
+    {
+        "word": "THE",
+        "start": 166.1225,
+        "end": 166.1825
+    },
+    {
+        "word": "WINDSHIELD",
+        "start": 166.1825,
+        "end": 166.7725
+    },
+    {
+        "word": "WHEN",
+        "start": 166.7725,
+        "end": 167.1725
+    },
+    {
+        "word": "HE",
+        "start": 167.1725,
+        "end": 167.2925
+    },
+    {
+        "word": "COMES",
+        "start": 167.2925,
+        "end": 167.5325
+    },
+    {
+        "word": "BACK",
+        "start": 167.5325,
+        "end": 167.7525
+    },
+    {
+        "word": "FOR",
+        "start": 167.7525,
+        "end": 167.8825
+    },
+    {
+        "word": "HIS",
+        "start": 167.8825,
+        "end": 168.0225
+    },
+    {
+        "word": "KEYS",
+        "start": 168.0225,
+        "end": 168.3525
+    },
+    {
+        "word": "I'LL",
+        "start": 168.3525,
+        "end": 168.4125
+    },
+    {
+        "word": "BE",
+        "start": 168.4125,
+        "end": 168.4925
+    },
+    {
+        "word": "SURE",
+        "start": 168.4925,
+        "end": 168.6625
+    },
+    {
+        "word": "TO",
+        "start": 168.6625,
+        "end": 168.7225
+    },
+    {
+        "word": "GIVE",
+        "start": 168.7225,
+        "end": 168.8925
+    },
+    {
+        "word": "HIM",
+        "start": 168.8925,
+        "end": 168.9725
+    },
+    {
+        "word": "YOUR",
+        "start": 168.9725,
+        "end": 169.0925
+    },
+    {
+        "word": "SHOE",
+        "start": 169.0925,
+        "end": 169.4725
+    },
+    {
+        "word": "GREAT",
+        "start": 170.7425,
+        "end": 171.2225
+    },
+    {
+        "word": "THANKS",
+        "start": 171.9225,
+        "end": 173.3825
+    },
+    {
+        "word": "OH",
+        "start": 174.1825,
+        "end": 174.3325
+    },
+    {
+        "word": "GOOD",
+        "start": 174.4025,
+        "end": 174.9125
+    },
+    {
+        "word": "GOOD",
+        "start": 175.0025,
+        "end": 175.2525
+    },
+    {
+        "word": "YOU",
+        "start": 175.2525,
+        "end": 175.3825
+    },
+    {
+        "word": "GUYS",
+        "start": 175.3825,
+        "end": 175.5925
+    },
+    {
+        "word": "ARE",
+        "start": 175.5925,
+        "end": 175.6725
+    },
+    {
+        "word": "HERE",
+        "start": 175.6725,
+        "end": 176.0325
+    },
+    {
+        "word": "LISTEN",
+        "start": 176.4125,
+        "end": 176.6725
+    },
+    {
+        "word": "HOW",
+        "start": 176.9425,
+        "end": 177.1825
+    },
+    {
+        "word": "WOULD",
+        "start": 177.1825,
+        "end": 177.3325
+    },
+    {
+        "word": "YOU",
+        "start": 177.3325,
+        "end": 177.4225
+    },
+    {
+        "word": "LIKE",
+        "start": 177.4225,
+        "end": 177.5925
+    },
+    {
+        "word": "TO",
+        "start": 177.5925,
+        "end": 177.6825
+    },
+    {
+        "word": "SPEND",
+        "start": 177.6825,
+        "end": 178.0125
+    },
+    {
+        "word": "TOMORROW",
+        "start": 178.0125,
+        "end": 178.3725
+    },
+    {
+        "word": "TAKING",
+        "start": 178.3725,
+        "end": 178.7425
+    },
+    {
+        "word": "CARE",
+        "start": 178.7925,
+        "end": 178.9825
+    },
+    {
+        "word": "OF",
+        "start": 178.9825,
+        "end": 179.0425
+    },
+    {
+        "word": "THREE",
+        "start": 179.0925,
+        "end": 179.4125
+    },
+    {
+        "word": "INCREDIBLY",
+        "start": 179.4125,
+        "end": 180.0225
+    },
+    {
+        "word": "CUTE",
+        "start": 180.0225,
+        "end": 180.2625
+    },
+    {
+        "word": "LITTLE",
+        "start": 180.2625,
+        "end": 180.4425
+    },
+    {
+        "word": "PUPPIES",
+        "start": 180.4425,
+        "end": 180.9025
+    },
+    {
+        "word": "MY",
+        "start": 181.1925,
+        "end": 181.3325
+    },
+    {
+        "word": "GOD",
+        "start": 181.3325,
+        "end": 181.7325
+    },
+    {
+        "word": "WHAT",
+        "start": 181.9825,
+        "end": 182.1125
+    },
+    {
+        "word": "A",
+        "start": 182.1125,
+        "end": 182.1525
+    },
+    {
+        "word": "FUN",
+        "start": 182.2825,
+        "end": 182.4825
+    },
+    {
+        "word": "DAY",
+        "start": 182.4825,
+        "end": 182.5625
+    },
+    {
+        "word": "THAT",
+        "start": 182.5625,
+        "end": 182.9625
+    },
+    {
+        "word": "SOUNDS",
+        "start": 182.9625,
+        "end": 183.2125
+    },
+    {
+        "word": "GREAT",
+        "start": 183.2125,
+        "end": 183.6625
+    },
+    {
+        "word": "YEAH",
+        "start": 183.7825,
+        "end": 184.4025
+    },
+    {
+        "word": "ALL",
+        "start": 185.1025,
+        "end": 185.1925
+    },
+    {
+        "word": "RIGHT",
+        "start": 185.7825,
+        "end": 185.9725
+    },
+    {
+        "word": "OKAY",
+        "start": 185.9725,
+        "end": 186.1225
+    },
+    {
+        "word": "WELL",
+        "start": 186.1225,
+        "end": 186.2525
+    },
+    {
+        "word": "I'LL",
+        "start": 186.2525,
+        "end": 186.5025
+    },
+    {
+        "word": "BRING",
+        "start": 186.5025,
+        "end": 186.7125
+    },
+    {
+        "word": "THEM",
+        "start": 186.7125,
+        "end": 186.8225
+    },
+    {
+        "word": "BY",
+        "start": 186.8225,
+        "end": 187.0125
+    },
+    {
+        "word": "TOMORROW",
+        "start": 187.0125,
+        "end": 187.3425
+    },
+    {
+        "word": "MORNING",
+        "start": 187.3425,
+        "end": 188.0425
+    },
+    {
+        "word": "OKAY",
+        "start": 188.2725,
+        "end": 188.6925
+    },
+    {
+        "word": "AND",
+        "start": 188.8525,
+        "end": 189.0325
+    },
+    {
+        "word": "UM",
+        "start": 189.0925,
+        "end": 189.3125
+    },
+    {
+        "word": "BY",
+        "start": 189.3125,
+        "end": 189.5125
+    },
+    {
+        "word": "THE",
+        "start": 189.5125,
+        "end": 189.5725
+    },
+    {
+        "word": "WAY",
+        "start": 189.5725,
+        "end": 189.8725
+    },
+    {
+        "word": "THEY'RE",
+        "start": 190.2025,
+        "end": 190.4025
+    },
+    {
+        "word": "NOT",
+        "start": 190.4025,
+        "end": 190.6725
+    },
+    {
+        "word": "ACTUALLY",
+        "start": 190.6725,
+        "end": 191.1325
+    },
+    {
+        "word": "PUPPIES",
+        "start": 191.1325,
+        "end": 191.6925
+    },
+    {
+        "word": "THEY'RE",
+        "start": 191.6925,
+        "end": 191.9325
+    },
+    {
+        "word": "FRANK",
+        "start": 192.0225,
+        "end": 192.2325
+    },
+    {
+        "word": "AND",
+        "start": 192.2325,
+        "end": 192.3325
+    },
+    {
+        "word": "ALICE'S",
+        "start": 192.3325,
+        "end": 192.7625
+    },
+    {
+        "word": "TRIPLETS",
+        "start": 192.7625,
+        "end": 193.2625
+    },
+    {
+        "word": "OKAY",
+        "start": 193.3025,
+        "end": 193.7225
+    },
+    {
+        "word": "SEE",
+        "start": 193.7225,
+        "end": 194.0025
+    },
+    {
+        "word": "YA",
+        "start": 194.0025,
+        "end": 194.0925
+    },
+    {
+        "word": "WHOA",
+        "start": 194.3525,
+        "end": 195.9725
+    },
+    {
+        "word": "WHOA",
+        "start": 195.9725,
+        "end": 196.0925
+    },
+    {
+        "word": "WHOA",
+        "start": 196.0925,
+        "end": 196.3025
+    },
+    {
+        "word": "WHAT",
+        "start": 196.3425,
+        "end": 196.6425
+    },
+    {
+        "word": "PLEASE",
+        "start": 197.1325,
+        "end": 197.4525
+    },
+    {
+        "word": "PLEASE",
+        "start": 197.4525,
+        "end": 197.7925
+    },
+    {
+        "word": "PLEASE",
+        "start": 197.7925,
+        "end": 198.0825
+    },
+    {
+        "word": "PLEASE",
+        "start": 198.0825,
+        "end": 198.3625
+    },
+    {
+        "word": "OH",
+        "start": 198.3625,
+        "end": 198.5225
+    },
+    {
+        "word": "PLEASE",
+        "start": 198.5225,
+        "end": 199.1425
+    },
+    {
+        "word": "FRANK",
+        "start": 199.1425,
+        "end": 199.4925
+    },
+    {
+        "word": "AND",
+        "start": 199.4925,
+        "end": 199.5825
+    },
+    {
+        "word": "ALICE",
+        "start": 199.5825,
+        "end": 199.9325
+    },
+    {
+        "word": "ASKED",
+        "start": 199.9325,
+        "end": 200.1925
+    },
+    {
+        "word": "ME",
+        "start": 200.1925,
+        "end": 200.2625
+    },
+    {
+        "word": "TO",
+        "start": 200.2625,
+        "end": 200.3425
+    },
+    {
+        "word": "BABY",
+        "start": 200.3425,
+        "end": 200.5925
+    },
+    {
+        "word": "SIT",
+        "start": 200.5925,
+        "end": 200.7925
+    },
+    {
+        "word": "THE",
+        "start": 200.7925,
+        "end": 200.8625
+    },
+    {
+        "word": "TRIPLETS",
+        "start": 200.8625,
+        "end": 201.2725
+    },
+    {
+        "word": "AND",
+        "start": 201.2725,
+        "end": 201.3625
+    },
+    {
+        "word": "I'M",
+        "start": 201.3625,
+        "end": 201.4825
+    },
+    {
+        "word": "NERVOUS",
+        "start": 201.4825,
+        "end": 201.9425
+    },
+    {
+        "word": "CAUSE",
+        "start": 201.9925,
+        "end": 202.0925
+    },
+    {
+        "word": "I'VE",
+        "start": 202.0925,
+        "end": 202.2325
+    },
+    {
+        "word": "NEVER",
+        "start": 202.2325,
+        "end": 202.4225
+    },
+    {
+        "word": "DONE",
+        "start": 202.4225,
+        "end": 202.6525
+    },
+    {
+        "word": "THAT",
+        "start": 202.6525,
+        "end": 202.7925
+    },
+    {
+        "word": "BEFORE",
+        "start": 202.7925,
+        "end": 203.0825
+    },
+    {
+        "word": "BY",
+        "start": 203.0825,
+        "end": 203.1925
+    },
+    {
+        "word": "MYSELF",
+        "start": 203.1925,
+        "end": 203.6825
+    },
+    {
+        "word": "DON'T",
+        "start": 204.0525,
+        "end": 204.2625
+    },
+    {
+        "word": "WORRY",
+        "start": 204.2625,
+        "end": 204.3825
+    },
+    {
+        "word": "ABOUT",
+        "start": 204.3825,
+        "end": 204.5125
+    },
+    {
+        "word": "IT",
+        "start": 204.5125,
+        "end": 204.5825
+    },
+    {
+        "word": "WE'LL",
+        "start": 204.5825,
+        "end": 204.8425
+    },
+    {
+        "word": "ABSOLUTELY",
+        "start": 204.8425,
+        "end": 205.3825
+    },
+    {
+        "word": "DO",
+        "start": 205.3825,
+        "end": 205.5325
+    },
+    {
+        "word": "IT",
+        "start": 205.5325,
+        "end": 205.6225
+    },
+    {
+        "word": "YEAH",
+        "start": 205.8625,
+        "end": 206.1025
+    },
+    {
+        "word": "I'M",
+        "start": 206.1025,
+        "end": 206.2025
+    },
+    {
+        "word": "GOING",
+        "start": 206.2025,
+        "end": 206.3625
+    },
+    {
+        "word": "TO",
+        "start": 206.3625,
+        "end": 206.4225
+    },
+    {
+        "word": "PASS",
+        "start": 206.4225,
+        "end": 207.1325
+    },
+    {
+        "word": "BECAUSE",
+        "start": 207.2125,
+        "end": 207.6625
+    },
+    {
+        "word": "I",
+        "start": 207.6625,
+        "end": 207.7825
+    },
+    {
+        "word": "WAS",
+        "start": 207.7825,
+        "end": 207.8925
+    },
+    {
+        "word": "KIND",
+        "start": 207.8925,
+        "end": 208.0425
+    },
+    {
+        "word": "OF",
+        "start": 208.0425,
+        "end": 208.1025
+    },
+    {
+        "word": "IFFY",
+        "start": 208.1025,
+        "end": 208.3425
+    },
+    {
+        "word": "WHEN",
+        "start": 208.3425,
+        "end": 208.4625
+    },
+    {
+        "word": "IT",
+        "start": 208.4625,
+        "end": 208.5225
+    },
+    {
+        "word": "WAS",
+        "start": 208.5225,
+        "end": 208.6525
+    },
+    {
+        "word": "PUPPIES",
+        "start": 208.6525,
+        "end": 209.0925
+    },
+    {
+        "word": "COME",
+        "start": 209.3525,
+        "end": 210.7525
+    },
+    {
+        "word": "ON",
+        "start": 211.1525,
+        "end": 211.3025
+    },
+    {
+        "word": "CHANDLER",
+        "start": 211.3425,
+        "end": 211.8825
+    },
+    {
+        "word": "COME",
+        "start": 211.8825,
+        "end": 212.0725
+    },
+    {
+        "word": "ON",
+        "start": 212.0725,
+        "end": 212.2525
+    },
+    {
+        "word": "IT",
+        "start": 212.2525,
+        "end": 212.3325
+    },
+    {
+        "word": "WILL",
+        "start": 212.3325,
+        "end": 212.4225
+    },
+    {
+        "word": "GIVE",
+        "start": 212.4225,
+        "end": 212.5425
+    },
+    {
+        "word": "US",
+        "start": 212.5425,
+        "end": 212.7125
+    },
+    {
+        "word": "GREAT",
+        "start": 212.7125,
+        "end": 212.9325
+    },
+    {
+        "word": "PRACTICE",
+        "start": 212.9325,
+        "end": 213.2625
+    },
+    {
+        "word": "FOR",
+        "start": 213.2625,
+        "end": 213.3625
+    },
+    {
+        "word": "WHEN",
+        "start": 213.3625,
+        "end": 213.7125
+    },
+    {
+        "word": "PEOPLE",
+        "start": 214.8425,
+        "end": 215.1725
+    },
+    {
+        "word": "WITH",
+        "start": 215.1725,
+        "end": 215.2925
+    },
+    {
+        "word": "BABIES",
+        "start": 215.2925,
+        "end": 215.6325
+    },
+    {
+        "word": "COME",
+        "start": 215.6325,
+        "end": 215.7925
+    },
+    {
+        "word": "TO",
+        "start": 215.7925,
+        "end": 215.8525
+    },
+    {
+        "word": "VISIT",
+        "start": 215.8525,
+        "end": 216.2825
+    },
+    {
+        "word": "IT'S",
+        "start": 216.2825,
+        "end": 216.4325
+    },
+    {
+        "word": "THE",
+        "start": 216.4325,
+        "end": 218.1525
+    },
+    {
+        "word": "WRONG",
+        "start": 218.5525,
+        "end": 218.6425
+    },
+    {
+        "word": "CAR",
+        "start": 218.7225,
+        "end": 222.6925
+    },
+    {
+        "word": "SO",
+        "start": 226.2625,
+        "end": 226.8925
+    },
+    {
+        "word": "I",
+        "start": 226.8925,
+        "end": 227.1625
+    },
+    {
+        "word": "STILL",
+        "start": 227.1625,
+        "end": 227.6625
+    },
+    {
+        "word": "HAVE",
+        "start": 227.6625,
+        "end": 227.8525
+    },
+    {
+        "word": "BOXES",
+        "start": 227.9225,
+        "end": 228.5125
+    },
+    {
+        "word": "HERE",
+        "start": 228.5125,
+        "end": 229.3225
+    },
+    {
+        "word": "I",
+        "start": 230.4225,
+        "end": 230.5025
+    },
+    {
+        "word": "STILL",
+        "start": 230.5525,
+        "end": 230.8025
+    },
+    {
+        "word": "HAVE",
+        "start": 230.8025,
+        "end": 230.9325
+    },
+    {
+        "word": "BOXES",
+        "start": 230.9325,
+        "end": 231.4225
+    },
+    {
+        "word": "AT",
+        "start": 231.4225,
+        "end": 231.5225
+    },
+    {
+        "word": "ROSS'",
+        "start": 231.5225,
+        "end": 231.9925
+    },
+    {
+        "word": "AND",
+        "start": 231.9925,
+        "end": 232.3525
+    },
+    {
+        "word": "I",
+        "start": 233.0025,
+        "end": 233.1025
+    },
+    {
+        "word": "HAVE",
+        "start": 233.1025,
+        "end": 233.3825
+    },
+    {
+        "word": "NOWHERE",
+        "start": 233.3825,
+        "end": 233.6325
+    },
+    {
+        "word": "TO",
+        "start": 233.6325,
+        "end": 233.6925
+    },
+    {
+        "word": "LIVE",
+        "start": 233.6925,
+        "end": 233.9525
+    },
+    {
+        "word": "WOW",
+        "start": 235.0825,
+        "end": 235.2925
+    },
+    {
+        "word": "I",
+        "start": 235.2925,
+        "end": 235.3825
+    },
+    {
+        "word": "CAN",
+        "start": 235.3825,
+        "end": 235.4725
+    },
+    {
+        "word": "SO",
+        "start": 235.4725,
+        "end": 235.6925
+    },
+    {
+        "word": "EASILY",
+        "start": 235.6925,
+        "end": 236.0125
+    },
+    {
+        "word": "FREAK",
+        "start": 236.0125,
+        "end": 236.2125
+    },
+    {
+        "word": "OUT",
+        "start": 236.2125,
+        "end": 236.3725
+    },
+    {
+        "word": "RIGHT",
+        "start": 236.3725,
+        "end": 236.4925
+    },
+    {
+        "word": "NOW",
+        "start": 236.4925,
+        "end": 236.6925
+    },
+    {
+        "word": "OKAY",
+        "start": 237.0625,
+        "end": 237.2625
+    },
+    {
+        "word": "WHAT",
+        "start": 237.2625,
+        "end": 238.8525
+    },
+    {
+        "word": "ABOUT",
+        "start": 238.8525,
+        "end": 239.1725
+    },
+    {
+        "word": "ME",
+        "start": 239.1725,
+        "end": 239.4925
+    },
+    {
+        "word": "I",
+        "start": 239.7625,
+        "end": 239.8925
+    },
+    {
+        "word": "JUST",
+        "start": 239.8925,
+        "end": 240.1025
+    },
+    {
+        "word": "FOUND",
+        "start": 240.1025,
+        "end": 240.3125
+    },
+    {
+        "word": "OUT",
+        "start": 240.3125,
+        "end": 240.4525
+    },
+    {
+        "word": "DENISE",
+        "start": 240.4525,
+        "end": 240.8225
+    },
+    {
+        "word": "IS",
+        "start": 240.8225,
+        "end": 240.9225
+    },
+    {
+        "word": "LEAVING",
+        "start": 240.9225,
+        "end": 241.1725
+    },
+    {
+        "word": "TOWN",
+        "start": 241.1725,
+        "end": 241.4525
+    },
+    {
+        "word": "FOR",
+        "start": 241.4525,
+        "end": 241.5825
+    },
+    {
+        "word": "A",
+        "start": 241.5825,
+        "end": 241.6125
+    },
+    {
+        "word": "WHILE",
+        "start": 241.6125,
+        "end": 242.5325
+    },
+    {
+        "word": "I",
+        "start": 242.5325,
+        "end": 242.7225
+    },
+    {
+        "word": "DON'T",
+        "start": 243.3525,
+        "end": 243.4525
+    },
+    {
+        "word": "HAVE",
+        "start": 243.4525,
+        "end": 245.6125
+    },
+    {
+        "word": "A",
+        "start": 246.6525,
+        "end": 246.8025
+    },
+    {
+        "word": "ROOMMATE",
+        "start": 246.9425,
+        "end": 247.3125
+    },
+    {
+        "word": "WELL",
+        "start": 247.3425,
+        "end": 247.4525
+    },
+    {
+        "word": "MAYBE",
+        "start": 247.7625,
+        "end": 248.2425
+    },
+    {
+        "word": "MAYBE",
+        "start": 248.2425,
+        "end": 248.5125
+    },
+    {
+        "word": "I",
+        "start": 248.5125,
+        "end": 248.6625
+    },
+    {
+        "word": "CAN",
+        "start": 248.6625,
+        "end": 248.8725
+    },
+    {
+        "word": "BE",
+        "start": 248.8725,
+        "end": 249.0325
+    },
+    {
+        "word": "YOUR",
+        "start": 249.0325,
+        "end": 249.1625
+    },
+    {
+        "word": "ROOMMATE",
+        "start": 249.1625,
+        "end": 249.5925
+    },
+    {
+        "word": "PHEEBS",
+        "start": 249.6425,
+        "end": 250.2025
+    },
+    {
+        "word": "MAYBE",
+        "start": 251.6125,
+        "end": 251.8925
+    },
+    {
+        "word": "YOU",
+        "start": 251.8925,
+        "end": 251.9925
+    },
+    {
+        "word": "COULD",
+        "start": 251.9925,
+        "end": 252.2725
+    },
+    {
+        "word": "BE",
+        "start": 252.2925,
+        "end": 252.4425
+    },
+    {
+        "word": "MY",
+        "start": 252.4425,
+        "end": 252.6425
+    },
+    {
+        "word": "ROOMMATE",
+        "start": 252.6425,
+        "end": 253.2025
+    },
+    {
+        "word": "WELL",
+        "start": 253.2225,
+        "end": 254.0525
+    },
+    {
+        "word": "THERE'S",
+        "start": 254.8425,
+        "end": 255.2625
+    },
+    {
+        "word": "AN",
+        "start": 255.2625,
+        "end": 255.5025
+    },
+    {
+        "word": "IDEA",
+        "start": 255.6225,
+        "end": 255.9325
+    },
+    {
+        "word": "YEAH",
+        "start": 255.9325,
+        "end": 256.1325
+    },
+    {
+        "word": "THAT",
+        "start": 256.1325,
+        "end": 257.1625
+    },
+    {
+        "word": "WOULD",
+        "start": 257.1625,
+        "end": 257.2725
+    },
+    {
+        "word": "BE",
+        "start": 257.2725,
+        "end": 257.3325
+    },
+    {
+        "word": "GREAT",
+        "start": 257.3325,
+        "end": 257.5625
+    },
+    {
+        "word": "WAIT",
+        "start": 257.5625,
+        "end": 257.9925
+    },
+    {
+        "word": "HOW",
+        "start": 257.9925,
+        "end": 258.8725
+    },
+    {
+        "word": "LONG",
+        "start": 258.8725,
+        "end": 259.0625
+    },
+    {
+        "word": "IS",
+        "start": 259.0625,
+        "end": 259.1825
+    },
+    {
+        "word": "DENISE",
+        "start": 259.1825,
+        "end": 259.4525
+    },
+    {
+        "word": "GONE",
+        "start": 259.4525,
+        "end": 259.6525
+    },
+    {
+        "word": "FOR",
+        "start": 259.6525,
+        "end": 259.8825
+    },
+    {
+        "word": "UM",
+        "start": 260.2325,
+        "end": 260.4425
+    },
+    {
+        "word": "SHE",
+        "start": 260.4425,
+        "end": 260.6025
+    },
+    {
+        "word": "SAID",
+        "start": 260.6025,
+        "end": 260.8225
+    },
+    {
+        "word": "SHE'D",
+        "start": 260.8225,
+        "end": 261.0025
+    },
+    {
+        "word": "BE",
+        "start": 261.0025,
+        "end": 261.0925
+    },
+    {
+        "word": "BACK",
+        "start": 261.0925,
+        "end": 261.3325
+    },
+    {
+        "word": "DECEMBER",
+        "start": 261.3325,
+        "end": 261.7325
+    },
+    {
+        "word": "26",
+        "start": 261.7325,
+        "end": 262.3725
+    },
+    {
+        "word": "OH",
+        "start": 262.4425,
+        "end": 262.6325
+    },
+    {
+        "word": "DECEMBER",
+        "start": 263.0025,
+        "end": 263.3525
+    },
+    {
+        "word": "26",
+        "start": 263.3525,
+        "end": 264.0125
+    },
+    {
+        "word": "HA",
+        "start": 264.6325,
+        "end": 264.8625
+    },
+    {
+        "word": "MAYBE",
+        "start": 265.0425,
+        "end": 265.2225
+    },
+    {
+        "word": "SHE'S",
+        "start": 265.2225,
+        "end": 265.4325
+    },
+    {
+        "word": "SANTA",
+        "start": 265.4325,
+        "end": 265.6725
+    },
+    {
+        "word": "CLAUS",
+        "start": 265.6725,
+        "end": 266.2525
+    },
+    {
+        "word": "OH",
+        "start": 266.2725,
+        "end": 266.3325
+    },
+    {
+        "word": "LOOK",
+        "start": 266.3325,
+        "end": 267.0925
+    },
+    {
+        "word": "WHO",
+        "start": 268.9225,
+        "end": 271.3525
+    },
+    {
+        "word": "IT",
+        "start": 272.6725,
+        "end": 273.5625
+    },
+    {
+        "word": "IS",
+        "start": 273.5625,
+        "end": 274.0225
+    },
+    {
+        "word": "MY",
+        "start": 274.0825,
+        "end": 274.3925
+    },
+    {
+        "word": "HUSBAND",
+        "start": 274.3925,
+        "end": 275.0925
+    },
+    {
+        "word": "THE",
+        "start": 275.0925,
+        "end": 275.3625
+    },
+    {
+        "word": "APPLE",
+        "start": 275.3625,
+        "end": 275.7025
+    },
+    {
+        "word": "OF",
+        "start": 275.7025,
+        "end": 275.8325
+    },
+    {
+        "word": "MY",
+        "start": 275.8325,
+        "end": 276.1325
+    },
+    {
+        "word": "EYE",
+        "start": 276.1325,
+        "end": 276.6525
+    },
+    {
+        "word": "OKAY",
+        "start": 276.8225,
+        "end": 278.6425
+    },
+    {
+        "word": "I",
+        "start": 279.0025,
+        "end": 279.1125
+    },
+    {
+        "word": "GOT",
+        "start": 279.1125,
+        "end": 279.2725
+    },
+    {
+        "word": "US",
+        "start": 279.2725,
+        "end": 279.4025
+    },
+    {
+        "word": "A",
+        "start": 279.4025,
+        "end": 279.4525
+    },
+    {
+        "word": "COURT",
+        "start": 279.4525,
+        "end": 279.7425
+    },
+    {
+        "word": "DATE",
+        "start": 279.7725,
+        "end": 279.9825
+    },
+    {
+        "word": "FOR",
+        "start": 279.9825,
+        "end": 280.1725
+    },
+    {
+        "word": "TOMORROW",
+        "start": 280.1725,
+        "end": 280.6025
+    },
+    {
+        "word": "AT",
+        "start": 280.6025,
+        "end": 280.7425
+    },
+    {
+        "word": "200",
+        "start": 280.7425,
+        "end": 281.2925
+    },
+    {
+        "word": "AND",
+        "start": 281.2925,
+        "end": 281.5725
+    },
+    {
+        "word": "I",
+        "start": 281.5725,
+        "end": 281.6225
+    },
+    {
+        "word": "PICKED",
+        "start": 281.6225,
+        "end": 281.9425
+    },
+    {
+        "word": "UP",
+        "start": 281.9425,
+        "end": 282.0925
+    },
+    {
+        "word": "ALL",
+        "start": 282.1825,
+        "end": 282.4925
+    },
+    {
+        "word": "THE",
+        "start": 282.4925,
+        "end": 282.5725
+    },
+    {
+        "word": "FORMS",
+        "start": 282.5725,
+        "end": 283.2525
+    },
+    {
+        "word": "I'LL",
+        "start": 283.8725,
+        "end": 283.9825
+    },
+    {
+        "word": "TAKE",
+        "start": 283.9825,
+        "end": 284.2225
+    },
+    {
+        "word": "CARE",
+        "start": 284.2225,
+        "end": 284.3825
+    },
+    {
+        "word": "OF",
+        "start": 284.3825,
+        "end": 284.4925
+    },
+    {
+        "word": "EVERYTHING",
+        "start": 284.4925,
+        "end": 285.0425
+    },
+    {
+        "word": "WELL",
+        "start": 285.2425,
+        "end": 285.5125
+    },
+    {
+        "word": "SURE",
+        "start": 285.5125,
+        "end": 286.0425
+    },
+    {
+        "word": "IF",
+        "start": 286.0425,
+        "end": 286.1425
+    },
+    {
+        "word": "YOU",
+        "start": 286.1425,
+        "end": 286.2525
+    },
+    {
+        "word": "SAY",
+        "start": 286.2525,
+        "end": 286.5125
+    },
+    {
+        "word": "YOU'RE",
+        "start": 286.5125,
+        "end": 286.6225
+    },
+    {
+        "word": "GOING",
+        "start": 286.6225,
+        "end": 286.7925
+    },
+    {
+        "word": "TO",
+        "start": 286.7925,
+        "end": 286.8925
+    },
+    {
+        "word": "TAKE",
+        "start": 286.8925,
+        "end": 287.0425
+    },
+    {
+        "word": "CARE",
+        "start": 287.0425,
+        "end": 287.2225
+    },
+    {
+        "word": "OF",
+        "start": 287.2225,
+        "end": 287.2925
+    },
+    {
+        "word": "EVERYTHING",
+        "start": 287.2925,
+        "end": 287.7325
+    },
+    {
+        "word": "I",
+        "start": 287.7325,
+        "end": 287.7725
+    },
+    {
+        "word": "HAVE",
+        "start": 287.7725,
+        "end": 287.9325
+    },
+    {
+        "word": "NO",
+        "start": 287.9325,
+        "end": 288.0625
+    },
+    {
+        "word": "REASON",
+        "start": 288.0625,
+        "end": 288.3425
+    },
+    {
+        "word": "TO",
+        "start": 288.3425,
+        "end": 288.4125
+    },
+    {
+        "word": "DOUBT",
+        "start": 288.4125,
+        "end": 288.7025
+    },
+    {
+        "word": "YOU",
+        "start": 288.7025,
+        "end": 289.1425
+    },
+    {
+        "word": "GIVE",
+        "start": 289.7925,
+        "end": 290.0725
+    },
+    {
+        "word": "ME",
+        "start": 290.4925,
+        "end": 290.6325
+    },
+    {
+        "word": "THOSE",
+        "start": 290.6325,
+        "end": 290.7825
+    },
+    {
+        "word": "FORMS",
+        "start": 290.7825,
+        "end": 291.3525
+    },
+    {
+        "word": "ALL",
+        "start": 291.6725,
+        "end": 291.7325
+    },
+    {
+        "word": "RIGHT",
+        "start": 291.7725,
+        "end": 292.0225
+    },
+    {
+        "word": "NOW",
+        "start": 292.0225,
+        "end": 292.2825
+    },
+    {
+        "word": "I'M",
+        "start": 292.2825,
+        "end": 292.4825
+    },
+    {
+        "word": "GOING",
+        "start": 292.4825,
+        "end": 292.7025
+    },
+    {
+        "word": "TO",
+        "start": 292.7025,
+        "end": 292.8525
+    },
+    {
+        "word": "DO",
+        "start": 292.8525,
+        "end": 293.0225
+    },
+    {
+        "word": "THIS",
+        "start": 293.0225,
+        "end": 293.2425
+    },
+    {
+        "word": "MY",
+        "start": 293.2425,
+        "end": 293.6425
+    },
+    {
+        "word": "WAY",
+        "start": 293.6425,
+        "end": 294.1825
+    },
+    {
+        "word": "AND",
+        "start": 294.1825,
+        "end": 294.3225
+    },
+    {
+        "word": "I",
+        "start": 294.3225,
+        "end": 294.4025
+    },
+    {
+        "word": "DON'T",
+        "start": 294.4025,
+        "end": 294.4925
+    },
+    {
+        "word": "WANT",
+        "start": 294.4925,
+        "end": 294.6125
+    },
+    {
+        "word": "TO",
+        "start": 294.6125,
+        "end": 294.6725
+    },
+    {
+        "word": "HEAR",
+        "start": 294.6725,
+        "end": 294.7925
+    },
+    {
+        "word": "A",
+        "start": 294.7925,
+        "end": 294.8225
+    },
+    {
+        "word": "PEEP",
+        "start": 294.8225,
+        "end": 295.1625
+    },
+    {
+        "word": "OUT",
+        "start": 295.3225,
+        "end": 295.4725
+    },
+    {
+        "word": "OF",
+        "start": 295.4725,
+        "end": 295.5325
+    },
+    {
+        "word": "YOU",
+        "start": 295.5325,
+        "end": 295.8525
+    },
+    {
+        "word": "OKAY",
+        "start": 296.2325,
+        "end": 296.5725
+    },
+    {
+        "word": "RACH",
+        "start": 296.5725,
+        "end": 296.9325
+    },
+    {
+        "word": "BUT",
+        "start": 296.9325,
+        "end": 297.1225
+    },
+    {
+        "word": "AH",
+        "start": 297.1225,
+        "end": 297.2325
+    },
+    {
+        "word": "YOU'RE",
+        "start": 297.3125,
+        "end": 297.4525
+    },
+    {
+        "word": "PEEPING",
+        "start": 297.4525,
+        "end": 297.8325
+    },
+    {
+        "word": "ROSS",
+        "start": 298.2425,
+        "end": 298.5525
+    },
+    {
+        "word": "YOU",
+        "start": 300.3025,
+        "end": 300.6025
+    },
+    {
+        "word": "KNOW",
+        "start": 300.6025,
+        "end": 301.6025
+    },
+    {
+        "word": "WHAT",
+        "start": 301.8225,
+        "end": 304.3125
+    },
+    {
+        "word": "I",
+        "start": 304.3125,
+        "end": 304.4225
+    },
+    {
+        "word": "JUST",
+        "start": 304.4225,
+        "end": 304.6425
+    },
+    {
+        "word": "GOT",
+        "start": 304.6425,
+        "end": 304.7825
+    },
+    {
+        "word": "WHY",
+        "start": 305.4325,
+        "end": 305.8725
+    },
+    {
+        "word": "WHY",
+        "start": 305.9725,
+        "end": 306.3425
+    },
+    {
+        "word": "DID",
+        "start": 306.3425,
+        "end": 306.5125
+    },
+    {
+        "word": "YOU",
+        "start": 306.5125,
+        "end": 306.5925
+    },
+    {
+        "word": "DO",
+        "start": 306.5925,
+        "end": 306.8425
+    },
+    {
+        "word": "THIS",
+        "start": 306.8425,
+        "end": 307.2425
+    },
+    {
+        "word": "LOOK",
+        "start": 307.2425,
+        "end": 307.3725
+    },
+    {
+        "word": "I",
+        "start": 307.3725,
+        "end": 307.4825
+    },
+    {
+        "word": "TOLD",
+        "start": 307.6425,
+        "end": 307.8925
+    },
+    {
+        "word": "YOU",
+        "start": 307.8925,
+        "end": 307.9525
+    },
+    {
+        "word": "I",
+        "start": 307.9525,
+        "end": 308.0225
+    },
+    {
+        "word": "I",
+        "start": 308.0825,
+        "end": 308.1125
+    },
+    {
+        "word": "DON'T",
+        "start": 308.1125,
+        "end": 308.3325
+    },
+    {
+        "word": "WANT",
+        "start": 308.3325,
+        "end": 308.4925
+    },
+    {
+        "word": "TO",
+        "start": 308.4925,
+        "end": 308.5525
+    },
+    {
+        "word": "HEAR",
+        "start": 308.5525,
+        "end": 308.8325
+    },
+    {
+        "word": "THREE",
+        "start": 308.8325,
+        "end": 309.3625
+    },
+    {
+        "word": "FAILED",
+        "start": 309.3825,
+        "end": 309.6925
+    },
+    {
+        "word": "MARRIAGES",
+        "start": 309.6925,
+        "end": 310.5525
+    },
+    {
+        "word": "LOOK",
+        "start": 310.6625,
+        "end": 310.8825
+    },
+    {
+        "word": "IF",
+        "start": 310.8825,
+        "end": 311.0025
+    },
+    {
+        "word": "YOU'D",
+        "start": 311.0025,
+        "end": 311.2125
+    },
+    {
+        "word": "HAD",
+        "start": 311.2125,
+        "end": 311.4925
+    },
+    {
+        "word": "TWO",
+        "start": 311.4925,
+        "end": 311.6825
+    },
+    {
+        "word": "FAILED",
+        "start": 311.6825,
+        "end": 312.0425
+    },
+    {
+        "word": "MARRIAGES",
+        "start": 312.0425,
+        "end": 312.5825
+    },
+    {
+        "word": "YOU'D",
+        "start": 312.5825,
+        "end": 312.7525
+    },
+    {
+        "word": "UNDERSTAND",
+        "start": 312.7525,
+        "end": 313.5225
+    },
+    {
+        "word": "WELL",
+        "start": 313.6525,
+        "end": 313.8625
+    },
+    {
+        "word": "YOU",
+        "start": 313.8625,
+        "end": 314.0025
+    },
+    {
+        "word": "KNOW",
+        "start": 314.0025,
+        "end": 314.1625
+    },
+    {
+        "word": "WHAT",
+        "start": 314.1625,
+        "end": 314.3825
+    },
+    {
+        "word": "THANKS",
+        "start": 314.3825,
+        "end": 314.6425
+    },
+    {
+        "word": "TO",
+        "start": 314.6425,
+        "end": 314.7225
+    },
+    {
+        "word": "YOU",
+        "start": 314.7225,
+        "end": 314.8725
+    },
+    {
+        "word": "I'M",
+        "start": 314.8725,
+        "end": 315.0525
+    },
+    {
+        "word": "HALFWAY",
+        "start": 315.0525,
+        "end": 315.6025
+    },
+    {
+        "word": "THERE",
+        "start": 316.5025,
+        "end": 317.4125
+    },
+    {
+        "word": "OH",
+        "start": 317.4125,
+        "end": 317.4625
+    },
+    {
+        "word": "OH",
+        "start": 318.0125,
+        "end": 318.0725
+    },
+    {
+        "word": "I",
+        "start": 319.4725,
+        "end": 319.9025
+    },
+    {
+        "word": "AM",
+        "start": 319.9025,
+        "end": 320.0525
+    },
+    {
+        "word": "SO",
+        "start": 320.0525,
+        "end": 320.8925
+    },
+    {
+        "word": "MAD",
+        "start": 320.8925,
+        "end": 321.3925
+    },
+    {
+        "word": "ROSS",
+        "start": 321.3925,
+        "end": 321.7325
+    },
+    {
+        "word": "I",
+        "start": 321.7625,
+        "end": 321.9225
+    },
+    {
+        "word": "DON'T",
+        "start": 321.9225,
+        "end": 322.0425
+    },
+    {
+        "word": "THINK",
+        "start": 322.0425,
+        "end": 322.1625
+    },
+    {
+        "word": "I'VE",
+        "start": 322.1625,
+        "end": 322.2925
+    },
+    {
+        "word": "EVER",
+        "start": 322.4325,
+        "end": 322.6425
+    },
+    {
+        "word": "BEEN",
+        "start": 322.6425,
+        "end": 322.7625
+    },
+    {
+        "word": "THIS",
+        "start": 322.7625,
+        "end": 322.9725
+    },
+    {
+        "word": "ANGRY",
+        "start": 323.0225,
+        "end": 323.6825
+    },
+    {
+        "word": "WHAT",
+        "start": 325.4025,
+        "end": 325.4925
+    },
+    {
+        "word": "ABOUT",
+        "start": 325.4925,
+        "end": 325.7325
+    },
+    {
+        "word": "THE",
+        "start": 325.7325,
+        "end": 325.8425
+    },
+    {
+        "word": "TIME",
+        "start": 325.8925,
+        "end": 326.1425
+    },
+    {
+        "word": "I",
+        "start": 326.1425,
+        "end": 326.1825
+    },
+    {
+        "word": "SAID",
+        "start": 326.1825,
+        "end": 326.4625
+    },
+    {
+        "word": "WE",
+        "start": 326.4625,
+        "end": 326.6325
+    },
+    {
+        "word": "WERE",
+        "start": 326.6325,
+        "end": 326.7725
+    },
+    {
+        "word": "ON",
+        "start": 326.7725,
+        "end": 326.9425
+    },
+    {
+        "word": "A",
+        "start": 326.9425,
+        "end": 326.9725
+    },
+    {
+        "word": "BREAK",
+        "start": 326.9725,
+        "end": 327.5925
+    },
+    {
+        "word": "OH",
+        "start": 327.5925,
+        "end": 327.6325
+    },
+    {
+        "word": "HO",
+        "start": 327.6325,
+        "end": 332.6625
+    },
+    {
+        "word": "HO",
+        "start": 335.4225,
+        "end": 336.5225
+    },
+    {
+        "word": "HO",
+        "start": 338.0525,
+        "end": 339.5725
+    },
+    {
+        "word": "NICE",
+        "start": 339.5725,
+        "end": 343.2825
+    },
+    {
+        "word": "CAR",
+        "start": 349.7625,
+        "end": 349.8725
+    },
+    {
+        "word": "YEAH",
+        "start": 349.8725,
+        "end": 349.9325
+    },
+    {
+        "word": "IT'S",
+        "start": 350.1125,
+        "end": 351.1425
+    },
+    {
+        "word": "UH",
+        "start": 352.2625,
+        "end": 352.4725
+    },
+    {
+        "word": "IT'S",
+        "start": 352.7625,
+        "end": 353.2925
+    },
+    {
+        "word": "NOT",
+        "start": 353.2925,
+        "end": 353.5125
+    },
+    {
+        "word": "MINE",
+        "start": 353.6825,
+        "end": 353.8825
+    },
+    {
+        "word": "I",
+        "start": 353.9125,
+        "end": 354.1925
+    },
+    {
+        "word": "LOVE",
+        "start": 357.3525,
+        "end": 357.5125
+    },
+    {
+        "word": "YOUR",
+        "start": 357.5125,
+        "end": 357.6225
+    },
+    {
+        "word": "CAR",
+        "start": 357.6225,
+        "end": 357.9225
+    },
+    {
+        "word": "YEAH",
+        "start": 358.3025,
+        "end": 358.5025
+    },
+    {
+        "word": "IT'S",
+        "start": 358.5025,
+        "end": 358.8325
+    },
+    {
+        "word": "MINE",
+        "start": 359.0125,
+        "end": 359.3525
+    },
+    {
+        "word": "I",
+        "start": 360.0825,
+        "end": 361.2325
+    },
+    {
+        "word": "BET",
+        "start": 362.0625,
+        "end": 362.2125
+    },
+    {
+        "word": "IT'S",
+        "start": 362.2125,
+        "end": 362.3025
+    },
+    {
+        "word": "FAST",
+        "start": 362.3025,
+        "end": 362.9425
+    },
+    {
+        "word": "ME",
+        "start": 363.2525,
+        "end": 363.3825
+    },
+    {
+        "word": "TOO",
+        "start": 363.3825,
+        "end": 363.7225
+    },
+    {
+        "word": "YEAH",
+        "start": 363.8825,
+        "end": 364.1325
+    },
+    {
+        "word": "AND",
+        "start": 365.6325,
+        "end": 365.8625
+    },
+    {
+        "word": "COMFORTABLE",
+        "start": 365.8625,
+        "end": 366.3725
+    },
+    {
+        "word": "DO",
+        "start": 366.7125,
+        "end": 366.7725
+    },
+    {
+        "word": "YOU",
+        "start": 366.8425,
+        "end": 367.0625
+    },
+    {
+        "word": "UH",
+        "start": 367.0625,
+        "end": 367.3625
+    },
+    {
+        "word": "DO",
+        "start": 367.3625,
+        "end": 367.4225
+    },
+    {
+        "word": "YOU",
+        "start": 367.9225,
+        "end": 368.0225
+    },
+    {
+        "word": "LIKE",
+        "start": 368.0225,
+        "end": 368.1625
+    },
+    {
+        "word": "LEATHER",
+        "start": 368.1625,
+        "end": 368.3825
+    },
+    {
+        "word": "SEATS",
+        "start": 368.3825,
+        "end": 368.8325
+    },
+    {
+        "word": "YEAH",
+        "start": 369.1425,
+        "end": 369.6425
+    },
+    {
+        "word": "IT'S",
+        "start": 372.6325,
+        "end": 372.8325
+    },
+    {
+        "word": "GOT",
+        "start": 372.8325,
+        "end": 373.0725
+    },
+    {
+        "word": "THEM",
+        "start": 373.0725,
+        "end": 373.3325
+    },
+    {
+        "word": "PHEEB",
+        "start": 373.5825,
+        "end": 373.8625
+    },
+    {
+        "word": "HOW'S",
+        "start": 373.8625,
+        "end": 379.3125
+    },
+    {
+        "word": "IT",
+        "start": 379.3125,
+        "end": 379.4025
+    },
+    {
+        "word": "GOING",
+        "start": 379.4025,
+        "end": 379.7825
+    },
+    {
+        "word": "I'M",
+        "start": 379.9125,
+        "end": 379.9725
+    },
+    {
+        "word": "DOING",
+        "start": 379.9725,
+        "end": 380.4225
+    },
+    {
+        "word": "OKAY",
+        "start": 380.4225,
+        "end": 380.6625
+    },
+    {
+        "word": "I",
+        "start": 380.6625,
+        "end": 380.8025
+    },
+    {
+        "word": "THINK",
+        "start": 380.8025,
+        "end": 381.0425
+    },
+    {
+        "word": "IT'S",
+        "start": 381.0425,
+        "end": 381.1825
+    },
+    {
+        "word": "GOING",
+        "start": 381.1825,
+        "end": 381.4625
+    },
+    {
+        "word": "WELL",
+        "start": 381.4625,
+        "end": 381.6025
+    },
+    {
+        "word": "DO",
+        "start": 381.6325,
+        "end": 381.7025
+    },
+    {
+        "word": "YOU",
+        "start": 381.7025,
+        "end": 381.8025
+    },
+    {
+        "word": "THINK",
+        "start": 381.8025,
+        "end": 381.9325
+    },
+    {
+        "word": "THEY'RE",
+        "start": 381.9325,
+        "end": 382.0425
+    },
+    {
+        "word": "HAVING",
+        "start": 382.0425,
+        "end": 382.2325
+    },
+    {
+        "word": "FUN",
+        "start": 382.2325,
+        "end": 382.6125
+    },
+    {
+        "word": "AM",
+        "start": 382.6125,
+        "end": 382.7125
+    },
+    {
+        "word": "I",
+        "start": 382.7125,
+        "end": 382.7625
+    },
+    {
+        "word": "TALKING",
+        "start": 382.7625,
+        "end": 383.0425
+    },
+    {
+        "word": "TOO",
+        "start": 383.0425,
+        "end": 383.1625
+    },
+    {
+        "word": "FAST",
+        "start": 383.1625,
+        "end": 383.5025
+    },
+    {
+        "word": "NO",
+        "start": 383.6225,
+        "end": 383.8725
+    },
+    {
+        "word": "SOUND",
+        "start": 383.8725,
+        "end": 384.0825
+    },
+    {
+        "word": "LIKE",
+        "start": 384.0825,
+        "end": 384.2125
+    },
+    {
+        "word": "ME",
+        "start": 384.2125,
+        "end": 384.4525
+    },
+    {
+        "word": "PHEEBS",
+        "start": 384.8125,
+        "end": 385.4625
+    },
+    {
+        "word": "IT'S",
+        "start": 385.8425,
+        "end": 386.1225
+    },
+    {
+        "word": "GOING",
+        "start": 386.1225,
+        "end": 386.3725
+    },
+    {
+        "word": "GREAT",
+        "start": 386.3725,
+        "end": 386.7625
+    },
+    {
+        "word": "LOOK",
+        "start": 387.0525,
+        "end": 387.1825
+    },
+    {
+        "word": "AT",
+        "start": 387.1825,
+        "end": 387.3225
+    },
+    {
+        "word": "CHANDLER",
+        "start": 387.3225,
+        "end": 387.6625
+    },
+    {
+        "word": "WITH",
+        "start": 387.6625,
+        "end": 387.7925
+    },
+    {
+        "word": "LITTLE",
+        "start": 387.7925,
+        "end": 387.9625
+    },
+    {
+        "word": "BABY",
+        "start": 387.9625,
+        "end": 388.3125
+    },
+    {
+        "word": "GIRL",
+        "start": 388.3125,
+        "end": 388.5825
+    },
+    {
+        "word": "CHANDLER",
+        "start": 388.5825,
+        "end": 388.9825
+    },
+    {
+        "word": "LITTLE",
+        "start": 389.4625,
+        "end": 390.5525
+    },
+    {
+        "word": "BABY",
+        "start": 390.5525,
+        "end": 390.8125
+    },
+    {
+        "word": "GIRL",
+        "start": 390.8125,
+        "end": 391.0025
+    },
+    {
+        "word": "CHANDLER",
+        "start": 391.0025,
+        "end": 391.5125
+    },
+    {
+        "word": "WHERE",
+        "start": 391.5125,
+        "end": 391.7625
+    },
+    {
+        "word": "HAVE",
+        "start": 391.7625,
+        "end": 391.8625
+    },
+    {
+        "word": "I",
+        "start": 391.8625,
+        "end": 391.8925
+    },
+    {
+        "word": "HEARD",
+        "start": 391.8925,
+        "end": 392.0325
+    },
+    {
+        "word": "THAT",
+        "start": 392.0325,
+        "end": 392.1825
+    },
+    {
+        "word": "BEFORE",
+        "start": 392.1825,
+        "end": 392.5525
+    },
+    {
+        "word": "OH",
+        "start": 392.8925,
+        "end": 393.0025
+    },
+    {
+        "word": "RIGHT",
+        "start": 393.0025,
+        "end": 393.2325
+    },
+    {
+        "word": "COACH",
+        "start": 393.2325,
+        "end": 393.4725
+    },
+    {
+        "word": "RUBIN",
+        "start": 393.4725,
+        "end": 393.7325
+    },
+    {
+        "word": "OOH",
+        "start": 393.7325,
+        "end": 393.7925
+    },
+    {
+        "word": "YOU",
+        "start": 394.1225,
+        "end": 394.2625
+    },
+    {
+        "word": "KNOW",
+        "start": 394.2625,
+        "end": 394.3725
+    },
+    {
+        "word": "WHAT",
+        "start": 394.3725,
+        "end": 400.5125
+    },
+    {
+        "word": "PHEEBS",
+        "start": 400.6425,
+        "end": 401.3525
+    },
+    {
+        "word": "WHEN",
+        "start": 401.3525,
+        "end": 401.6425
+    },
+    {
+        "word": "YOU'RE",
+        "start": 401.6425,
+        "end": 401.7525
+    },
+    {
+        "word": "DONE",
+        "start": 401.7525,
+        "end": 401.9325
+    },
+    {
+        "word": "OVER",
+        "start": 401.9325,
+        "end": 402.1025
+    },
+    {
+        "word": "THERE",
+        "start": 402.1025,
+        "end": 402.3225
+    },
+    {
+        "word": "WE'VE",
+        "start": 402.3225,
+        "end": 402.5025
+    },
+    {
+        "word": "GOT",
+        "start": 402.5025,
+        "end": 402.7025
+    },
+    {
+        "word": "A",
+        "start": 402.7025,
+        "end": 402.7325
+    },
+    {
+        "word": "KIND",
+        "start": 402.7325,
+        "end": 402.9725
+    },
+    {
+        "word": "OF",
+        "start": 402.9725,
+        "end": 403.0325
+    },
+    {
+        "word": "SITUATION",
+        "start": 403.0325,
+        "end": 403.6025
+    },
+    {
+        "word": "OVER",
+        "start": 403.6025,
+        "end": 403.7925
+    },
+    {
+        "word": "HERE",
+        "start": 403.7925,
+        "end": 403.9825
+    },
+    {
+        "word": "TOO",
+        "start": 403.9825,
+        "end": 404.2825
+    },
+    {
+        "word": "UH",
+        "start": 404.6325,
+        "end": 405.4225
+    },
+    {
+        "word": "UH",
+        "start": 406.2325,
+        "end": 406.6525
+    },
+    {
+        "word": "NO",
+        "start": 406.8225,
+        "end": 407.0825
+    },
+    {
+        "word": "WE",
+        "start": 407.0825,
+        "end": 407.1925
+    },
+    {
+        "word": "ARE",
+        "start": 407.1925,
+        "end": 407.3425
+    },
+    {
+        "word": "ALL",
+        "start": 407.3425,
+        "end": 407.5225
+    },
+    {
+        "word": "RESPONSIBLE",
+        "start": 407.5225,
+        "end": 408.0925
+    },
+    {
+        "word": "FOR",
+        "start": 408.0925,
+        "end": 408.2825
+    },
+    {
+        "word": "OUR",
+        "start": 408.2825,
+        "end": 408.4225
+    },
+    {
+        "word": "OWN",
+        "start": 408.4225,
+        "end": 408.6125
+    },
+    {
+        "word": "BABIES",
+        "start": 408.6125,
+        "end": 409.1325
+    },
+    {
+        "word": "SEE",
+        "start": 409.1325,
+        "end": 409.3825
+    },
+    {
+        "word": "THAT'S",
+        "start": 409.3825,
+        "end": 409.6425
+    },
+    {
+        "word": "WHERE",
+        "start": 409.6425,
+        "end": 409.7525
+    },
+    {
+        "word": "I",
+        "start": 409.7525,
+        "end": 409.7825
+    },
+    {
+        "word": "THINK",
+        "start": 409.7825,
+        "end": 410.0225
+    },
+    {
+        "word": "THAT",
+        "start": 410.0225,
+        "end": 410.1125
+    },
+    {
+        "word": "YOU'RE",
+        "start": 410.1125,
+        "end": 410.2425
+    },
+    {
+        "word": "WRONG",
+        "start": 410.2425,
+        "end": 410.6125
+    },
+    {
+        "word": "WE'VE",
+        "start": 410.7425,
+        "end": 411.0525
+    },
+    {
+        "word": "BEEN",
+        "start": 411.0525,
+        "end": 411.1525
+    },
+    {
+        "word": "PLAYING",
+        "start": 411.1525,
+        "end": 411.3625
+    },
+    {
+        "word": "THESE",
+        "start": 411.3625,
+        "end": 411.4925
+    },
+    {
+        "word": "BABIES",
+        "start": 411.4925,
+        "end": 411.8425
+    },
+    {
+        "word": "MAN",
+        "start": 411.8425,
+        "end": 412.1225
+    },
+    {
+        "word": "TO",
+        "start": 412.1225,
+        "end": 412.2125
+    },
+    {
+        "word": "MAN",
+        "start": 412.2125,
+        "end": 412.4525
+    },
+    {
+        "word": "WE",
+        "start": 412.4525,
+        "end": 412.5325
+    },
+    {
+        "word": "SHOULD",
+        "start": 412.5325,
+        "end": 412.6825
+    },
+    {
+        "word": "REALLY",
+        "start": 412.6825,
+        "end": 412.8625
+    },
+    {
+        "word": "BE",
+        "start": 412.8625,
+        "end": 412.9825
+    },
+    {
+        "word": "PLAYING",
+        "start": 412.9825,
+        "end": 413.2325
+    },
+    {
+        "word": "A",
+        "start": 413.2325,
+        "end": 413.2625
+    },
+    {
+        "word": "ZONE",
+        "start": 413.2625,
+        "end": 414.0125
+    },
+    {
+        "word": "DEFENSE",
+        "start": 414.0925,
+        "end": 414.7225
+    },
+    {
+        "word": "WHAT",
+        "start": 414.8525,
+        "end": 416.4125
+    },
+    {
+        "word": "DO",
+        "start": 416.4125,
+        "end": 416.5125
+    },
+    {
+        "word": "YOU",
+        "start": 416.5125,
+        "end": 416.6425
+    },
+    {
+        "word": "MEAN",
+        "start": 416.6425,
+        "end": 416.8625
+    },
+    {
+        "word": "I",
+        "start": 416.9925,
+        "end": 417.0725
+    },
+    {
+        "word": "JUST",
+        "start": 417.0725,
+        "end": 417.3125
+    },
+    {
+        "word": "THINK",
+        "start": 417.4125,
+        "end": 417.6425
+    },
+    {
+        "word": "THINGS",
+        "start": 417.6425,
+        "end": 418.0325
+    },
+    {
+        "word": "WILL",
+        "start": 418.0325,
+        "end": 418.1225
+    },
+    {
+        "word": "GO",
+        "start": 418.1225,
+        "end": 418.2725
+    },
+    {
+        "word": "A",
+        "start": 418.2725,
+        "end": 418.3025
+    },
+    {
+        "word": "LOT",
+        "start": 418.3025,
+        "end": 418.5125
+    },
+    {
+        "word": "SMOOTHER",
+        "start": 418.5125,
+        "end": 418.8925
+    },
+    {
+        "word": "IF",
+        "start": 418.8925,
+        "end": 418.9725
+    },
+    {
+        "word": "WE",
+        "start": 418.9725,
+        "end": 419.0925
+    },
+    {
+        "word": "EACH",
+        "start": 419.0925,
+        "end": 419.2525
+    },
+    {
+        "word": "HAVE",
+        "start": 419.2525,
+        "end": 419.3625
+    },
+    {
+        "word": "OUR",
+        "start": 419.3625,
+        "end": 419.4725
+    },
+    {
+        "word": "OWN",
+        "start": 419.4725,
+        "end": 419.6225
+    },
+    {
+        "word": "ZONE",
+        "start": 419.6225,
+        "end": 420.3625
+    },
+    {
+        "word": "PHOEBE",
+        "start": 420.6025,
+        "end": 420.8525
+    },
+    {
+        "word": "YOU",
+        "start": 420.8525,
+        "end": 420.9525
+    },
+    {
+        "word": "CAN",
+        "start": 420.9525,
+        "end": 421.0525
+    },
+    {
+        "word": "BE",
+        "start": 421.0525,
+        "end": 421.1225
+    },
+    {
+        "word": "IN",
+        "start": 421.1225,
+        "end": 421.1925
+    },
+    {
+        "word": "CHARGE",
+        "start": 421.1925,
+        "end": 421.4325
+    },
+    {
+        "word": "OF",
+        "start": 421.4325,
+        "end": 421.4925
+    },
+    {
+        "word": "WIPING",
+        "start": 421.4925,
+        "end": 421.9125
+    },
+    {
+        "word": "AND",
+        "start": 423.1325,
+        "end": 423.4825
+    },
+    {
+        "word": "YOU",
+        "start": 423.5925,
+        "end": 423.6725
+    },
+    {
+        "word": "KNOW",
+        "start": 423.6725,
+        "end": 423.7725
+    },
+    {
+        "word": "MON",
+        "start": 423.7725,
+        "end": 424.1425
+    },
+    {
+        "word": "YOU",
+        "start": 424.1425,
+        "end": 424.2225
+    },
+    {
+        "word": "CAN",
+        "start": 424.2225,
+        "end": 424.3225
+    },
+    {
+        "word": "BE",
+        "start": 424.3225,
+        "end": 424.3925
+    },
+    {
+        "word": "IN",
+        "start": 424.3925,
+        "end": 424.4725
+    },
+    {
+        "word": "CHARGE",
+        "start": 424.4725,
+        "end": 424.8525
+    },
+    {
+        "word": "OF",
+        "start": 424.8525,
+        "end": 424.9125
+    },
+    {
+        "word": "DIAPERING",
+        "start": 424.9125,
+        "end": 425.5725
+    },
+    {
+        "word": "AND",
+        "start": 425.5725,
+        "end": 425.7425
+    },
+    {
+        "word": "I",
+        "start": 425.7425,
+        "end": 425.8925
+    },
+    {
+        "word": "CAN",
+        "start": 425.8925,
+        "end": 426.0125
+    },
+    {
+        "word": "BE",
+        "start": 426.0125,
+        "end": 426.1525
+    },
+    {
+        "word": "IN",
+        "start": 426.1525,
+        "end": 426.2225
+    },
+    {
+        "word": "CHARGE",
+        "start": 426.2225,
+        "end": 426.5725
+    },
+    {
+        "word": "OF",
+        "start": 426.5725,
+        "end": 426.6725
+    },
+    {
+        "word": "LOOKING",
+        "start": 426.6725,
+        "end": 426.9625
+    },
+    {
+        "word": "HOW",
+        "start": 426.9625,
+        "end": 427.0725
+    },
+    {
+        "word": "CUTE",
+        "start": 427.0725,
+        "end": 427.3625
+    },
+    {
+        "word": "THEY",
+        "start": 427.3625,
+        "end": 427.4325
+    },
+    {
+        "word": "ARE",
+        "start": 427.4325,
+        "end": 427.5325
+    },
+    {
+        "word": "WHEN",
+        "start": 427.5325,
+        "end": 427.7025
+    },
+    {
+        "word": "THEY",
+        "start": 427.7025,
+        "end": 427.8025
+    },
+    {
+        "word": "PUT",
+        "start": 427.8025,
+        "end": 428.1725
+    },
+    {
+        "word": "THEIR",
+        "start": 428.1725,
+        "end": 429.5725
+    },
+    {
+        "word": "HANDS",
+        "start": 429.8825,
+        "end": 431.1825
+    },
+    {
+        "word": "AROUND",
+        "start": 431.4925,
+        "end": 431.5825
+    },
+    {
+        "word": "THAT",
+        "start": 431.7425,
+        "end": 431.9425
+    },
+    {
+        "word": "SOUNDS",
+        "start": 431.9425,
+        "end": 432.1725
+    },
+    {
+        "word": "REALLY",
+        "start": 432.2525,
+        "end": 432.5625
+    },
+    {
+        "word": "GREAT",
+        "start": 432.5625,
+        "end": 432.9725
+    },
+    {
+        "word": "MAYBE",
+        "start": 432.9725,
+        "end": 433.2525
+    },
+    {
+        "word": "YOU",
+        "start": 433.2525,
+        "end": 433.3625
+    },
+    {
+        "word": "SHOULD",
+        "start": 433.3625,
+        "end": 433.5325
+    },
+    {
+        "word": "BE",
+        "start": 433.5325,
+        "end": 433.6325
+    },
+    {
+        "word": "IN",
+        "start": 433.6325,
+        "end": 433.7525
+    },
+    {
+        "word": "CHARGE",
+        "start": 433.7525,
+        "end": 434.0025
+    },
+    {
+        "word": "OF",
+        "start": 434.0025,
+        "end": 434.1025
+    },
+    {
+        "word": "WIPING",
+        "start": 434.1025,
+        "end": 434.5225
+    },
+    {
+        "word": "OKAY",
+        "start": 434.5525,
+        "end": 434.7225
+    },
+    {
+        "word": "I'M",
+        "start": 434.7225,
+        "end": 434.8925
+    },
+    {
+        "word": "A",
+        "start": 434.8925,
+        "end": 434.9225
+    },
+    {
+        "word": "ROOKIE",
+        "start": 434.9225,
+        "end": 435.4525
+    },
+    {
+        "word": "I",
+        "start": 435.5325,
+        "end": 435.6025
+    },
+    {
+        "word": "SHOULD",
+        "start": 435.6025,
+        "end": 435.7725
+    },
+    {
+        "word": "NOT",
+        "start": 435.7725,
+        "end": 435.9625
+    },
+    {
+        "word": "BE",
+        "start": 435.9625,
+        "end": 436.0425
+    },
+    {
+        "word": "IN",
+        "start": 436.0425,
+        "end": 436.1025
+    },
+    {
+        "word": "THE",
+        "start": 436.1025,
+        "end": 436.1725
+    },
+    {
+        "word": "END",
+        "start": 436.1725,
+        "end": 436.3325
+    },
+    {
+        "word": "ZONE",
+        "start": 436.3325,
+        "end": 436.5725
+    },
+    {
+        "word": "THIS",
+        "start": 436.7925,
+        "end": 436.9525
+    },
+    {
+        "word": "IS",
+        "start": 436.9525,
+        "end": 437.0225
+    },
+    {
+        "word": "SO",
+        "start": 437.0225,
+        "end": 437.0825
+    },
+    {
+        "word": "GREAT",
+        "start": 437.0825,
+        "end": 437.2125
+    },
+    {
+        "word": "THIS",
+        "start": 437.2125,
+        "end": 437.3025
+    },
+    {
+        "word": "IS",
+        "start": 437.3025,
+        "end": 437.3625
+    },
+    {
+        "word": "EXACTLY",
+        "start": 437.3625,
+        "end": 437.6125
+    },
+    {
+        "word": "HOW",
+        "start": 437.6125,
+        "end": 442.2225
+    },
+    {
+        "word": "WE",
+        "start": 443.6225,
+        "end": 443.6825
+    },
+    {
+        "word": "SET",
+        "start": 444.3125,
+        "end": 444.5925
+    },
+    {
+        "word": "THE",
+        "start": 444.9825,
+        "end": 445.3225
+    },
+    {
+        "word": "PLATES",
+        "start": 445.6525,
+        "end": 446.0225
+    },
+    {
+        "word": "AT",
+        "start": 446.0225,
+        "end": 447.8125
+    },
+    {
+        "word": "THE",
+        "start": 448.0925,
+        "end": 448.3625
+    },
+    {
+        "word": "RESTAURANT",
+        "start": 448.5025,
+        "end": 449.1125
+    },
+    {
+        "word": "OH",
+        "start": 449.1125,
+        "end": 449.2825
+    },
+    {
+        "word": "YEAH",
+        "start": 449.6825,
+        "end": 450.1525
+    },
+    {
+        "word": "WELL",
+        "start": 450.2125,
+        "end": 450.7125
+    },
+    {
+        "word": "THIS",
+        "start": 451.3425,
+        "end": 451.7825
+    },
+    {
+        "word": "IS",
+        "start": 451.7825,
+        "end": 452.2325
+    },
+    {
+        "word": "NOT",
+        "start": 452.2325,
+        "end": 452.4525
+    },
+    {
+        "word": "WHAT",
+        "start": 452.6925,
+        "end": 454.5725
+    },
+    {
+        "word": "I",
+        "start": 454.5925,
+        "end": 454.9025
+    },
+    {
+        "word": "ORDERED",
+        "start": 454.9025,
+        "end": 455.2625
+    },
+    {
+        "word": "HEY",
+        "start": 455.3525,
+        "end": 460.4925
+    },
+    {
+        "word": "GUYS",
+        "start": 460.4925,
+        "end": 460.8925
+    },
+    {
+        "word": "HI",
+        "start": 460.8925,
+        "end": 461.0225
+    },
+    {
+        "word": "HEY",
+        "start": 461.3225,
+        "end": 461.5925
+    },
+    {
+        "word": "HEY",
+        "start": 461.7225,
+        "end": 461.8225
+    },
+    {
+        "word": "BABIES",
+        "start": 461.8225,
+        "end": 462.2325
+    },
+    {
+        "word": "OH",
+        "start": 462.9325,
+        "end": 462.9625
+    },
+    {
+        "word": "I'M",
+        "start": 462.9825,
+        "end": 463.1125
+    },
+    {
+        "word": "HAVING",
+        "start": 463.1125,
+        "end": 464.3225
+    },
+    {
+        "word": "THE",
+        "start": 464.3225,
+        "end": 464.4025
+    },
+    {
+        "word": "BEST",
+        "start": 464.4025,
+        "end": 464.7525
+    },
+    {
+        "word": "MORNING",
+        "start": 464.7525,
+        "end": 465.0925
+    },
+    {
+        "word": "THAT",
+        "start": 465.2125,
+        "end": 465.7825
+    },
+    {
+        "word": "PORSCHE",
+        "start": 466.0925,
+        "end": 466.6525
+    },
+    {
+        "word": "I'VE",
+        "start": 466.6525,
+        "end": 466.8025
+    },
+    {
+        "word": "GOT",
+        "start": 466.8025,
+        "end": 466.9725
+    },
+    {
+        "word": "THE",
+        "start": 466.9725,
+        "end": 467.0325
+    },
+    {
+        "word": "KEYS",
+        "start": 467.0325,
+        "end": 467.2225
+    },
+    {
+        "word": "TO",
+        "start": 467.3225,
+        "end": 467.5225
+    },
+    {
+        "word": "IT'S",
+        "start": 467.5925,
+        "end": 467.6825
+    },
+    {
+        "word": "STILL",
+        "start": 467.6825,
+        "end": 467.8625
+    },
+    {
+        "word": "THERE",
+        "start": 467.8625,
+        "end": 468.1625
+    },
+    {
+        "word": "SHOCKING",
+        "start": 468.4425,
+        "end": 468.9425
+    },
+    {
+        "word": "SINCE",
+        "start": 468.9425,
+        "end": 469.2325
+    },
+    {
+        "word": "YOU",
+        "start": 469.2325,
+        "end": 469.5525
+    },
+    {
+        "word": "STILL",
+        "start": 469.8525,
+        "end": 470.1525
+    },
+    {
+        "word": "HAVE",
+        "start": 470.1525,
+        "end": 470.3425
+    },
+    {
+        "word": "THE",
+        "start": 470.3725,
+        "end": 470.5025
+    },
+    {
+        "word": "KEYS",
+        "start": 470.5025,
+        "end": 471.1225
+    },
+    {
+        "word": "YOU",
+        "start": 473.4425,
+        "end": 473.5825
+    },
+    {
+        "word": "SHOULD",
+        "start": 473.5825,
+        "end": 473.8325
+    },
+    {
+        "word": "SEE",
+        "start": 473.8325,
+        "end": 474.1125
+    },
+    {
+        "word": "THE",
+        "start": 474.1125,
+        "end": 474.2225
+    },
+    {
+        "word": "TREATMENT",
+        "start": 474.2225,
+        "end": 474.6525
+    },
+    {
+        "word": "I",
+        "start": 474.6525,
+        "end": 474.7225
+    },
+    {
+        "word": "GET",
+        "start": 474.7225,
+        "end": 474.9425
+    },
+    {
+        "word": "WHEN",
+        "start": 474.9425,
+        "end": 475.0925
+    },
+    {
+        "word": "I'M",
+        "start": 475.0925,
+        "end": 475.1725
+    },
+    {
+        "word": "WITH",
+        "start": 475.1725,
+        "end": 475.3125
+    },
+    {
+        "word": "THAT",
+        "start": 475.3125,
+        "end": 475.4825
+    },
+    {
+        "word": "CAR",
+        "start": 475.5325,
+        "end": 475.9725
+    },
+    {
+        "word": "PEOPLE",
+        "start": 476.4325,
+        "end": 476.8325
+    },
+    {
+        "word": "ARE",
+        "start": 476.8325,
+        "end": 476.8725
+    },
+    {
+        "word": "FRIENDLY",
+        "start": 476.8725,
+        "end": 477.6625
+    },
+    {
+        "word": "THEY",
+        "start": 477.6625,
+        "end": 477.9625
+    },
+    {
+        "word": "WANT",
+        "start": 477.9625,
+        "end": 478.1925
+    },
+    {
+        "word": "TO",
+        "start": 478.2225,
+        "end": 478.3225
+    },
+    {
+        "word": "TALK",
+        "start": 478.3225,
+        "end": 478.7425
+    },
+    {
+        "word": "AND",
+        "start": 478.9125,
+        "end": 479.0425
+    },
+    {
+        "word": "NOT",
+        "start": 479.0425,
+        "end": 479.1625
+    },
+    {
+        "word": "JUST",
+        "start": 479.1625,
+        "end": 479.3325
+    },
+    {
+        "word": "ABOUT",
+        "start": 479.3325,
+        "end": 479.5225
+    },
+    {
+        "word": "THE",
+        "start": 479.5225,
+        "end": 479.6025
+    },
+    {
+        "word": "CAR",
+        "start": 479.6025,
+        "end": 479.9625
+    },
+    {
+        "word": "ONE",
+        "start": 480.1425,
+        "end": 480.3125
+    },
+    {
+        "word": "GUY",
+        "start": 480.3125,
+        "end": 480.4425
+    },
+    {
+        "word": "GAVE",
+        "start": 480.4425,
+        "end": 480.6125
+    },
+    {
+        "word": "ME",
+        "start": 480.6125,
+        "end": 480.7125
+    },
+    {
+        "word": "ADVICE",
+        "start": 480.7125,
+        "end": 481.0025
+    },
+    {
+        "word": "ABOUT",
+        "start": 481.0025,
+        "end": 481.2125
+    },
+    {
+        "word": "MY",
+        "start": 481.2125,
+        "end": 481.3825
+    },
+    {
+        "word": "EQUITY",
+        "start": 481.3825,
+        "end": 481.6225
+    },
+    {
+        "word": "INVESTMENTS",
+        "start": 481.6225,
+        "end": 482.2125
+    },
+    {
+        "word": "WHAT",
+        "start": 482.4525,
+        "end": 482.6525
+    },
+    {
+        "word": "EQUITY",
+        "start": 482.6525,
+        "end": 482.9625
+    },
+    {
+        "word": "INVESTMENTS",
+        "start": 482.9625,
+        "end": 483.5825
+    },
+    {
+        "word": "THE",
+        "start": 483.6325,
+        "end": 483.7325
+    },
+    {
+        "word": "ONES",
+        "start": 483.7325,
+        "end": 484.0625
+    },
+    {
+        "word": "THAT",
+        "start": 484.0625,
+        "end": 484.2025
+    },
+    {
+        "word": "GOT",
+        "start": 484.2025,
+        "end": 484.3925
+    },
+    {
+        "word": "ME",
+        "start": 484.3925,
+        "end": 484.5225
+    },
+    {
+        "word": "THE",
+        "start": 484.5225,
+        "end": 484.6125
+    },
+    {
+        "word": "PORSCHE",
+        "start": 484.6125,
+        "end": 485.0225
+    },
+    {
+        "word": "WILL",
+        "start": 485.0225,
+        "end": 485.1225
+    },
+    {
+        "word": "YOU",
+        "start": 485.1225,
+        "end": 485.2325
+    },
+    {
+        "word": "KEEP",
+        "start": 485.2325,
+        "end": 485.5025
+    },
+    {
+        "word": "UP",
+        "start": 485.5025,
+        "end": 485.7025
+    },
+    {
+        "word": "BUT",
+        "start": 486.1325,
+        "end": 487.6225
+    },
+    {
+        "word": "I",
+        "start": 489.0725,
+        "end": 490.4125
+    },
+    {
+        "word": "FIGURED",
+        "start": 490.8625,
+        "end": 491.4625
+    },
+    {
+        "word": "IF",
+        "start": 491.5325,
+        "end": 491.7325
+    },
+    {
+        "word": "PEOPLE",
+        "start": 491.7325,
+        "end": 491.9725
+    },
+    {
+        "word": "KEEP",
+        "start": 491.9725,
+        "end": 492.1925
+    },
+    {
+        "word": "SEEING",
+        "start": 492.1925,
+        "end": 492.4625
+    },
+    {
+        "word": "ME",
+        "start": 492.4625,
+        "end": 492.5625
+    },
+    {
+        "word": "JUST",
+        "start": 492.5625,
+        "end": 492.8425
+    },
+    {
+        "word": "STANDING",
+        "start": 493.0225,
+        "end": 493.6025
+    },
+    {
+        "word": "THERE",
+        "start": 493.6025,
+        "end": 493.7925
+    },
+    {
+        "word": "THEY'RE",
+        "start": 493.7925,
+        "end": 493.8825
+    },
+    {
+        "word": "GOING",
+        "start": 493.8825,
+        "end": 494.0025
+    },
+    {
+        "word": "TO",
+        "start": 494.0025,
+        "end": 494.0625
+    },
+    {
+        "word": "START",
+        "start": 494.0625,
+        "end": 494.2625
+    },
+    {
+        "word": "TO",
+        "start": 494.2625,
+        "end": 494.3525
+    },
+    {
+        "word": "THINK",
+        "start": 494.3525,
+        "end": 494.6125
+    },
+    {
+        "word": "I",
+        "start": 494.6125,
+        "end": 494.7025
+    },
+    {
+        "word": "DON'T",
+        "start": 494.7025,
+        "end": 494.9025
+    },
+    {
+        "word": "OWN",
+        "start": 494.9025,
+        "end": 495.1225
+    },
+    {
+        "word": "IT",
+        "start": 495.1225,
+        "end": 495.1925
+    },
+    {
+        "word": "SO",
+        "start": 495.5925,
+        "end": 495.9325
+    },
+    {
+        "word": "I",
+        "start": 496.2025,
+        "end": 496.2725
+    },
+    {
+        "word": "FIGURED",
+        "start": 496.2725,
+        "end": 496.6525
+    },
+    {
+        "word": "I'LL",
+        "start": 496.6525,
+        "end": 496.7125
+    },
+    {
+        "word": "WASH",
+        "start": 496.7125,
+        "end": 497.0725
+    },
+    {
+        "word": "IT",
+        "start": 497.0725,
+        "end": 497.1525
+    },
+    {
+        "word": "RIGHT",
+        "start": 497.1525,
+        "end": 497.3925
+    },
+    {
+        "word": "MONICA",
+        "start": 497.3925,
+        "end": 497.6425
+    },
+    {
+        "word": "YOU",
+        "start": 497.6425,
+        "end": 497.7025
+    },
+    {
+        "word": "GOT",
+        "start": 497.7025,
+        "end": 497.8325
+    },
+    {
+        "word": "A",
+        "start": 497.8325,
+        "end": 497.8625
+    },
+    {
+        "word": "BUCKET",
+        "start": 497.8625,
+        "end": 498.2225
+    },
+    {
+        "word": "AND",
+        "start": 498.2225,
+        "end": 498.3625
+    },
+    {
+        "word": "SOME",
+        "start": 498.3625,
+        "end": 498.4925
+    },
+    {
+        "word": "SOAP",
+        "start": 498.4925,
+        "end": 498.7625
+    },
+    {
+        "word": "I",
+        "start": 498.7625,
+        "end": 498.8325
+    },
+    {
+        "word": "CAN",
+        "start": 498.8325,
+        "end": 498.9225
+    },
+    {
+        "word": "BORROW",
+        "start": 498.9225,
+        "end": 499.1325
+    },
+    {
+        "word": "OH",
+        "start": 499.2325,
+        "end": 499.3725
+    },
+    {
+        "word": "YEAH",
+        "start": 499.3725,
+        "end": 499.8125
+    },
+    {
+        "word": "I",
+        "start": 499.9425,
+        "end": 500.0125
+    },
+    {
+        "word": "GOT",
+        "start": 500.0125,
+        "end": 500.1225
+    },
+    {
+        "word": "SOAP",
+        "start": 500.1225,
+        "end": 500.5525
+    },
+    {
+        "word": "AND",
+        "start": 500.5525,
+        "end": 500.6625
+    },
+    {
+        "word": "SPONGES",
+        "start": 500.6625,
+        "end": 501.4125
+    },
+    {
+        "word": "AND",
+        "start": 501.4125,
+        "end": 501.5425
+    },
+    {
+        "word": "RAGS",
+        "start": 501.5425,
+        "end": 502.1425
+    },
+    {
+        "word": "AND",
+        "start": 502.1425,
+        "end": 502.3125
+    },
+    {
+        "word": "CARNUBA",
+        "start": 502.7425,
+        "end": 503.4525
+    },
+    {
+        "word": "WAX",
+        "start": 503.4525,
+        "end": 504.0525
+    },
+    {
+        "word": "AND",
+        "start": 504.0525,
+        "end": 504.2525
+    },
+    {
+        "word": "POLISHING",
+        "start": 504.6025,
+        "end": 505.1625
+    },
+    {
+        "word": "COMPOUND",
+        "start": 505.1625,
+        "end": 505.8025
+    },
+    {
+        "word": "YOU",
+        "start": 505.8725,
+        "end": 506.0525
+    },
+    {
+        "word": "DON'T",
+        "start": 506.5625,
+        "end": 507.1925
+    },
+    {
+        "word": "EVEN",
+        "start": 507.4425,
+        "end": 507.7825
+    },
+    {
+        "word": "HAVE",
+        "start": 507.8225,
+        "end": 507.9425
+    },
+    {
+        "word": "A",
+        "start": 507.9425,
+        "end": 507.9825
+    },
+    {
+        "word": "CAR",
+        "start": 507.9825,
+        "end": 508.4625
+    },
+    {
+        "word": "I",
+        "start": 509.2125,
+        "end": 509.2725
+    },
+    {
+        "word": "KNOW",
+        "start": 509.2725,
+        "end": 509.4525
+    },
+    {
+        "word": "BUT",
+        "start": 509.4525,
+        "end": 509.6025
+    },
+    {
+        "word": "ONE",
+        "start": 509.7225,
+        "end": 509.8925
+    },
+    {
+        "word": "TIME",
+        "start": 509.8925,
+        "end": 510.0525
+    },
+    {
+        "word": "THERE",
+        "start": 510.0525,
+        "end": 510.1425
+    },
+    {
+        "word": "WAS",
+        "start": 510.1425,
+        "end": 510.2325
+    },
+    {
+        "word": "THIS",
+        "start": 510.2325,
+        "end": 510.3725
+    },
+    {
+        "word": "REALLY",
+        "start": 510.3725,
+        "end": 510.7625
+    },
+    {
+        "word": "DIRTY",
+        "start": 510.7625,
+        "end": 510.9925
+    },
+    {
+        "word": "CAR",
+        "start": 510.9925,
+        "end": 511.2225
+    },
+    {
+        "word": "PARKED",
+        "start": 511.2225,
+        "end": 511.4425
+    },
+    {
+        "word": "IN",
+        "start": 511.4425,
+        "end": 511.5025
+    },
+    {
+        "word": "FRONT",
+        "start": 511.5025,
+        "end": 511.7025
+    },
+    {
+        "word": "OF",
+        "start": 511.7025,
+        "end": 511.7625
+    },
+    {
+        "word": "THE",
+        "start": 511.7625,
+        "end": 511.8425
+    },
+    {
+        "word": "BUILDING",
+        "start": 511.8425,
+        "end": 512.0825
+    },
+    {
+        "word": "SO",
+        "start": 512.0825,
+        "end": 512.3725
+    },
+    {
+        "word": "I",
+        "start": 512.4325,
+        "end": 512.5025
+    },
+    {
+        "word": "WASHED",
+        "start": 512.6325,
+        "end": 513.0025
+    },
+    {
+        "word": "IT",
+        "start": 513.2025,
+        "end": 514.4525
+    },
+    {
+        "word": "AND",
+        "start": 514.8225,
+        "end": 515.0825
+    },
+    {
+        "word": "AND",
+        "start": 516.7425,
+        "end": 516.9025
+    },
+    {
+        "word": "SIX",
+        "start": 516.9025,
+        "end": 517.1225
+    },
+    {
+        "word": "OTHERS",
+        "start": 517.1225,
+        "end": 517.4225
+    },
+    {
+        "word": "THERE",
+        "start": 517.4725,
+        "end": 517.6125
+    },
+    {
+        "word": "YOU",
+        "start": 517.6125,
+        "end": 517.6925
+    },
+    {
+        "word": "ARE",
+        "start": 517.6925,
+        "end": 517.8125
+    },
+    {
+        "word": "YEAH",
+        "start": 517.9725,
+        "end": 518.0325
+    },
+    {
+        "word": "SHE",
+        "start": 518.1525,
+        "end": 518.2125
+    },
+    {
+        "word": "TOPS",
+        "start": 518.2125,
+        "end": 518.4225
+    },
+    {
+        "word": "OUT",
+        "start": 518.4225,
+        "end": 518.5625
+    },
+    {
+        "word": "AT",
+        "start": 518.5625,
+        "end": 518.8225
+    },
+    {
+        "word": "130",
+        "start": 518.8225,
+        "end": 523.1225
+    },
+    {
+        "word": "WOW",
+        "start": 523.1225,
+        "end": 523.2625
+    },
+    {
+        "word": "AND",
+        "start": 523.3425,
+        "end": 524.1225
+    },
+    {
+        "word": "THAT'S",
+        "start": 525.0825,
+        "end": 526.3625
+    },
+    {
+        "word": "JUST",
+        "start": 526.3625,
+        "end": 526.5725
+    },
+    {
+        "word": "IN",
+        "start": 526.5725,
+        "end": 526.6625
+    },
+    {
+        "word": "THE",
+        "start": 526.6625,
+        "end": 526.7225
+    },
+    {
+        "word": "CITY",
+        "start": 526.7225,
+        "end": 527.0825
+    },
+    {
+        "word": "I",
+        "start": 527.2825,
+        "end": 527.3225
+    },
+    {
+        "word": "GET",
+        "start": 527.3225,
+        "end": 527.5125
+    },
+    {
+        "word": "HER",
+        "start": 527.5125,
+        "end": 527.5825
+    },
+    {
+        "word": "UP",
+        "start": 527.5825,
+        "end": 527.6625
+    },
+    {
+        "word": "TO",
+        "start": 527.6625,
+        "end": 527.7225
+    },
+    {
+        "word": "160",
+        "start": 527.7225,
+        "end": 528.3725
+    },
+    {
+        "word": "WHEN",
+        "start": 528.3725,
+        "end": 528.4925
+    },
+    {
+        "word": "I",
+        "start": 528.4925,
+        "end": 528.5225
+    },
+    {
+        "word": "TAKE",
+        "start": 528.5225,
+        "end": 528.6725
+    },
+    {
+        "word": "HER",
+        "start": 528.6725,
+        "end": 528.7525
+    },
+    {
+        "word": "UPSTATE",
+        "start": 528.7525,
+        "end": 529.1625
+    },
+    {
+        "word": "REALLY",
+        "start": 529.5525,
+        "end": 529.9425
+    },
+    {
+        "word": "YOU",
+        "start": 530.8525,
+        "end": 530.9525
+    },
+    {
+        "word": "GOT",
+        "start": 530.9525,
+        "end": 531.0725
+    },
+    {
+        "word": "A",
+        "start": 531.0725,
+        "end": 531.1225
+    },
+    {
+        "word": "PLACE",
+        "start": 531.1225,
+        "end": 531.3225
+    },
+    {
+        "word": "UPSTATE",
+        "start": 531.3225,
+        "end": 531.7125
+    },
+    {
+        "word": "SURE",
+        "start": 532.5225,
+        "end": 532.8525
+    },
+    {
+        "word": "ER",
+        "start": 532.8525,
+        "end": 532.9025
+    },
+    {
+        "word": "WELL",
+        "start": 533.4925,
+        "end": 534.7225
+    },
+    {
+        "word": "I'LL",
+        "start": 535.5625,
+        "end": 535.9725
+    },
+    {
+        "word": "SEE",
+        "start": 536.2325,
+        "end": 536.4625
+    },
+    {
+        "word": "YOU",
+        "start": 536.4625,
+        "end": 536.5425
+    },
+    {
+        "word": "LAT",
+        "start": 536.5425,
+        "end": 536.8225
+    },
+    {
+        "word": "OKAY",
+        "start": 536.8225,
+        "end": 537.2125
+    },
+    {
+        "word": "TAKE",
+        "start": 537.3925,
+        "end": 537.5525
+    },
+    {
+        "word": "IT",
+        "start": 537.5525,
+        "end": 537.6125
+    },
+    {
+        "word": "EASY",
+        "start": 537.6125,
+        "end": 537.8925
+    },
+    {
+        "word": "HEY",
+        "start": 540.0325,
+        "end": 540.2125
+    },
+    {
+        "word": "THAT'S",
+        "start": 541.7525,
+        "end": 541.8925
+    },
+    {
+        "word": "MY",
+        "start": 541.8925,
+        "end": 541.9825
+    },
+    {
+        "word": "CAR",
+        "start": 541.9825,
+        "end": 542.2625
+    },
+    {
+        "word": "REALLY",
+        "start": 543.3525,
+        "end": 543.6625
+    },
+    {
+        "word": "OH",
+        "start": 543.9325,
+        "end": 544.1425
+    },
+    {
+        "word": "UH",
+        "start": 544.1425,
+        "end": 544.4025
+    },
+    {
+        "word": "JUST",
+        "start": 545.3125,
+        "end": 545.5225
+    },
+    {
+        "word": "GIVE",
+        "start": 545.5225,
+        "end": 545.6125
+    },
+    {
+        "word": "ME",
+        "start": 545.6125,
+        "end": 545.6725
+    },
+    {
+        "word": "FIVE",
+        "start": 545.6725,
+        "end": 545.8825
+    },
+    {
+        "word": "MORE",
+        "start": 545.8825,
+        "end": 546.0025
+    },
+    {
+        "word": "MINUTES",
+        "start": 546.0025,
+        "end": 546.3225
+    },
+    {
+        "word": "WILL",
+        "start": 546.3225,
+        "end": 546.4225
+    },
+    {
+        "word": "YOU",
+        "start": 546.5425,
+        "end": 546.6125
+    },
+    {
+        "word": "WHAT",
+        "start": 546.9525,
+        "end": 548.3325
+    },
+    {
+        "word": "WHAT",
+        "start": 548.8125,
+        "end": 549.0025
+    },
+    {
+        "word": "ARE",
+        "start": 549.0025,
+        "end": 549.0725
+    },
+    {
+        "word": "YOU",
+        "start": 549.0725,
+        "end": 549.2225
+    },
+    {
+        "word": "DOING",
+        "start": 549.2225,
+        "end": 549.5525
+    },
+    {
+        "word": "OH",
+        "start": 550.2625,
+        "end": 550.4525
+    },
+    {
+        "word": "I",
+        "start": 550.4525,
+        "end": 550.7825
+    },
+    {
+        "word": "I",
+        "start": 550.7825,
+        "end": 551.0725
+    },
+    {
+        "word": "FOUND",
+        "start": 551.0725,
+        "end": 551.3225
+    },
+    {
+        "word": "THE",
+        "start": 551.3225,
+        "end": 551.4025
+    },
+    {
+        "word": "KEYS",
+        "start": 551.4025,
+        "end": 551.7725
+    },
+    {
+        "word": "AND",
+        "start": 551.7725,
+        "end": 552.0325
+    },
+    {
+        "word": "NOW",
+        "start": 552.0325,
+        "end": 552.2425
+    },
+    {
+        "word": "I'M",
+        "start": 552.2425,
+        "end": 552.3225
+    },
+    {
+        "word": "JUST",
+        "start": 552.3225,
+        "end": 552.5125
+    },
+    {
+        "word": "POLISHING",
+        "start": 552.5125,
+        "end": 552.8925
+    },
+    {
+        "word": "HER",
+        "start": 552.8925,
+        "end": 553.0025
+    },
+    {
+        "word": "UP",
+        "start": 553.0025,
+        "end": 553.0825
+    },
+    {
+        "word": "BUT",
+        "start": 554.1225,
+        "end": 554.2425
+    },
+    {
+        "word": "IT'S",
+        "start": 554.2425,
+        "end": 554.4025
+    },
+    {
+        "word": "MY",
+        "start": 554.4025,
+        "end": 554.6025
+    },
+    {
+        "word": "CAR",
+        "start": 554.6025,
+        "end": 555.1025
+    },
+    {
+        "word": "YEAH",
+        "start": 555.4525,
+        "end": 555.7225
+    },
+    {
+        "word": "BUT",
+        "start": 555.7225,
+        "end": 555.8625
+    },
+    {
+        "word": "IT'S",
+        "start": 555.8625,
+        "end": 555.9625
+    },
+    {
+        "word": "MY",
+        "start": 555.9825,
+        "end": 556.1425
+    },
+    {
+        "word": "WAX",
+        "start": 556.1425,
+        "end": 556.6525
+    },
+    {
+        "word": "LISTEN",
+        "start": 558.6225,
+        "end": 558.9225
+    },
+    {
+        "word": "I",
+        "start": 558.9225,
+        "end": 559.4225
+    },
+    {
+        "word": "DON'T",
+        "start": 559.4225,
+        "end": 559.5625
+    },
+    {
+        "word": "COME",
+        "start": 559.5625,
+        "end": 559.8325
+    },
+    {
+        "word": "TO",
+        "start": 559.8325,
+        "end": 559.9225
+    },
+    {
+        "word": "THE",
+        "start": 559.9225,
+        "end": 560.0425
+    },
+    {
+        "word": "CITY",
+        "start": 560.0425,
+        "end": 560.6025
+    },
+    {
+        "word": "MUCH",
+        "start": 560.6025,
+        "end": 561.0425
+    },
+    {
+        "word": "AND",
+        "start": 561.0425,
+        "end": 561.2525
+    },
+    {
+        "word": "I",
+        "start": 561.4125,
+        "end": 561.5225
+    },
+    {
+        "word": "DON'T",
+        "start": 561.5225,
+        "end": 561.6225
+    },
+    {
+        "word": "KNOW",
+        "start": 561.6225,
+        "end": 561.7225
+    },
+    {
+        "word": "IF",
+        "start": 561.7225,
+        "end": 561.8325
+    },
+    {
+        "word": "YOU'RE",
+        "start": 561.8325,
+        "end": 561.9425
+    },
+    {
+        "word": "CRAZY",
+        "start": 561.9425,
+        "end": 562.6925
+    },
+    {
+        "word": "OR",
+        "start": 562.6925,
+        "end": 562.9025
+    },
+    {
+        "word": "IF",
+        "start": 562.9025,
+        "end": 563.0225
+    },
+    {
+        "word": "THIS",
+        "start": 563.0225,
+        "end": 563.2125
+    },
+    {
+        "word": "IS",
+        "start": 563.2125,
+        "end": 563.3325
+    },
+    {
+        "word": "SOME",
+        "start": 563.3325,
+        "end": 563.4725
+    },
+    {
+        "word": "KIND",
+        "start": 563.4725,
+        "end": 563.7525
+    },
+    {
+        "word": "OF",
+        "start": 563.7525,
+        "end": 563.8825
+    },
+    {
+        "word": "STREET",
+        "start": 564.1425,
+        "end": 564.5325
+    },
+    {
+        "word": "THEATER",
+        "start": 564.5525,
+        "end": 564.9425
+    },
+    {
+        "word": "BUT",
+        "start": 565.2025,
+        "end": 565.3225
+    },
+    {
+        "word": "COULD",
+        "start": 565.4325,
+        "end": 565.7625
+    },
+    {
+        "word": "I",
+        "start": 565.7625,
+        "end": 566.5625
+    },
+    {
+        "word": "HAVE",
+        "start": 566.7825,
+        "end": 567.1025
+    },
+    {
+        "word": "MY",
+        "start": 567.1025,
+        "end": 567.1925
+    },
+    {
+        "word": "KEYS",
+        "start": 567.1925,
+        "end": 567.5625
+    },
+    {
+        "word": "SURE",
+        "start": 568.1325,
+        "end": 568.2725
+    },
+    {
+        "word": "HERE",
+        "start": 568.5125,
+        "end": 568.6625
+    },
+    {
+        "word": "I'LL",
+        "start": 569.7225,
+        "end": 570.2025
+    },
+    {
+        "word": "SAVE",
+        "start": 570.2025,
+        "end": 570.4325
+    },
+    {
+        "word": "YOU",
+        "start": 570.4325,
+        "end": 570.4925
+    },
+    {
+        "word": "A",
+        "start": 570.4925,
+        "end": 570.5225
+    },
+    {
+        "word": "PARKING",
+        "start": 570.5225,
+        "end": 570.8025
+    },
+    {
+        "word": "SPOT",
+        "start": 570.8025,
+        "end": 571.0925
+    },
+    {
+        "word": "I'M",
+        "start": 571.0925,
+        "end": 571.1525
+    },
+    {
+        "word": "NOT",
+        "start": 571.3125,
+        "end": 571.4725
+    },
+    {
+        "word": "COMING",
+        "start": 571.4725,
+        "end": 571.7425
+    },
+    {
+        "word": "BACK",
+        "start": 571.7425,
+        "end": 572.0625
+    },
+    {
+        "word": "WHY",
+        "start": 573.3125,
+        "end": 573.4525
+    },
+    {
+        "word": "NOT",
+        "start": 573.4525,
+        "end": 573.7225
+    },
+    {
+        "word": "I",
+        "start": 574.1525,
+        "end": 574.2725
+    },
+    {
+        "word": "LIVE",
+        "start": 574.2725,
+        "end": 574.4225
+    },
+    {
+        "word": "UPSTATE",
+        "start": 574.4225,
+        "end": 574.9725
+    },
+    {
+        "word": "YEAH",
+        "start": 575.7025,
+        "end": 576.0825
+    },
+    {
+        "word": "SO",
+        "start": 576.0825,
+        "end": 576.3725
+    },
+    {
+        "word": "DID",
+        "start": 576.3725,
+        "end": 576.5225
+    },
+    {
+        "word": "I",
+        "start": 576.5225,
+        "end": 576.5925
+    },
+    {
+        "word": "I",
+        "start": 576.5925,
+        "end": 576.6825
+    },
+    {
+        "word": "DON'T",
+        "start": 576.6825,
+        "end": 576.8125
+    },
+    {
+        "word": "KNOW",
+        "start": 577.1025,
+        "end": 577.1725
+    },
+    {
+        "word": "WHY",
+        "start": 577.1725,
+        "end": 578.8225
+    },
+    {
+        "word": "I",
+        "start": 579.9125,
+        "end": 580.0125
+    },
+    {
+        "word": "WAS",
+        "start": 580.0125,
+        "end": 580.4025
+    },
+    {
+        "word": "SO",
+        "start": 580.4025,
+        "end": 580.5925
+    },
+    {
+        "word": "NERVOUS",
+        "start": 580.5925,
+        "end": 581.0425
+    },
+    {
+        "word": "ABOUT",
+        "start": 581.0425,
+        "end": 581.3425
+    },
+    {
+        "word": "THIS",
+        "start": 581.4025,
+        "end": 581.7325
+    },
+    {
+        "word": "AND",
+        "start": 581.9525,
+        "end": 582.1425
+    },
+    {
+        "word": "I",
+        "start": 582.1425,
+        "end": 582.2425
+    },
+    {
+        "word": "DON'T",
+        "start": 582.2425,
+        "end": 582.3825
+    },
+    {
+        "word": "KNOW",
+        "start": 582.3825,
+        "end": 582.5125
+    },
+    {
+        "word": "WHY",
+        "start": 582.5125,
+        "end": 582.6425
+    },
+    {
+        "word": "FRANK",
+        "start": 582.6425,
+        "end": 582.9525
+    },
+    {
+        "word": "AND",
+        "start": 582.9525,
+        "end": 583.0625
+    },
+    {
+        "word": "ALICE",
+        "start": 583.0625,
+        "end": 583.3625
+    },
+    {
+        "word": "ARE",
+        "start": 583.3625,
+        "end": 583.4525
+    },
+    {
+        "word": "ALWAYS",
+        "start": 583.4525,
+        "end": 583.6625
+    },
+    {
+        "word": "COMPLAINING",
+        "start": 583.6625,
+        "end": 584.1425
+    },
+    {
+        "word": "THIS",
+        "start": 584.1425,
+        "end": 584.3225
+    },
+    {
+        "word": "IS",
+        "start": 584.3225,
+        "end": 584.3825
+    },
+    {
+        "word": "SO",
+        "start": 584.3825,
+        "end": 584.6025
+    },
+    {
+        "word": "EASY",
+        "start": 584.6025,
+        "end": 585.0925
+    },
+    {
+        "word": "YEAH",
+        "start": 585.4025,
+        "end": 585.7625
+    },
+    {
+        "word": "TWO",
+        "start": 585.7625,
+        "end": 585.9625
+    },
+    {
+        "word": "HOURS",
+        "start": 585.9625,
+        "end": 586.3425
+    },
+    {
+        "word": "A",
+        "start": 586.3425,
+        "end": 586.3725
+    },
+    {
+        "word": "LIFETIME",
+        "start": 586.3725,
+        "end": 586.8725
+    },
+    {
+        "word": "THAT'S",
+        "start": 586.8725,
+        "end": 587.0825
+    },
+    {
+        "word": "THE",
+        "start": 587.0825,
+        "end": 587.1425
+    },
+    {
+        "word": "SAME",
+        "start": 587.1425,
+        "end": 587.4525
+    },
+    {
+        "word": "CHECK",
+        "start": 587.9925,
+        "end": 589.0225
+    },
+    {
+        "word": "IT",
+        "start": 590.0325,
+        "end": 590.3625
+    },
+    {
+        "word": "OUT",
+        "start": 590.3625,
+        "end": 590.7325
+    },
+    {
+        "word": "CHECK",
+        "start": 590.7325,
+        "end": 591.0525
+    },
+    {
+        "word": "IT",
+        "start": 591.0525,
+        "end": 591.1525
+    },
+    {
+        "word": "OUT",
+        "start": 591.1525,
+        "end": 591.3425
+    },
+    {
+        "word": "WHEN",
+        "start": 591.5025,
+        "end": 591.7825
+    },
+    {
+        "word": "THE",
+        "start": 591.7825,
+        "end": 591.8525
+    },
+    {
+        "word": "BABIES",
+        "start": 591.8525,
+        "end": 592.2125
+    },
+    {
+        "word": "WAKE",
+        "start": 592.2125,
+        "end": 592.4725
+    },
+    {
+        "word": "UP",
+        "start": 592.4725,
+        "end": 592.7125
+    },
+    {
+        "word": "THEY",
+        "start": 592.8925,
+        "end": 593.0225
+    },
+    {
+        "word": "CAN",
+        "start": 593.0225,
+        "end": 593.1625
+    },
+    {
+        "word": "MEET",
+        "start": 593.1625,
+        "end": 593.3325
+    },
+    {
+        "word": "KROG",
+        "start": 593.3325,
+        "end": 593.7125
+    },
+    {
+        "word": "CHANDLER",
+        "start": 594.4325,
+        "end": 594.7125
+    },
+    {
+        "word": "WHAT",
+        "start": 594.7125,
+        "end": 596.4325
+    },
+    {
+        "word": "ARE",
+        "start": 597.2225,
+        "end": 597.4825
+    },
+    {
+        "word": "YOU",
+        "start": 597.4825,
+        "end": 597.7125
+    },
+    {
+        "word": "DOING",
+        "start": 597.7125,
+        "end": 598.0925
+    },
+    {
+        "word": "THAT",
+        "start": 598.0925,
+        "end": 598.2325
+    },
+    {
+        "word": "THING",
+        "start": 598.2325,
+        "end": 598.3425
+    },
+    {
+        "word": "COULD",
+        "start": 598.3425,
+        "end": 598.4825
+    },
+    {
+        "word": "PUT",
+        "start": 598.4825,
+        "end": 598.6025
+    },
+    {
+        "word": "SOMEONE'S",
+        "start": 598.6025,
+        "end": 598.9025
+    },
+    {
+        "word": "EYE",
+        "start": 598.9025,
+        "end": 599.2225
+    },
+    {
+        "word": "OUT",
+        "start": 599.2225,
+        "end": 599.5425
+    },
+    {
+        "word": "HE",
+        "start": 599.8125,
+        "end": 599.9125
+    },
+    {
+        "word": "CAN",
+        "start": 599.9125,
+        "end": 600.0125
+    },
+    {
+        "word": "DO",
+        "start": 600.0125,
+        "end": 600.1225
+    },
+    {
+        "word": "MORE",
+        "start": 600.1225,
+        "end": 600.2925
+    },
+    {
+        "word": "THAN",
+        "start": 600.2925,
+        "end": 600.3925
+    },
+    {
+        "word": "THAT",
+        "start": 600.3925,
+        "end": 600.5525
+    },
+    {
+        "word": "HE",
+        "start": 600.5525,
+        "end": 600.6525
+    },
+    {
+        "word": "CAN",
+        "start": 600.6525,
+        "end": 600.7625
+    },
+    {
+        "word": "DESTROY",
+        "start": 600.7625,
+        "end": 601.3825
+    },
+    {
+        "word": "THE",
+        "start": 601.3825,
+        "end": 601.4925
+    },
+    {
+        "word": "UNIVERSE",
+        "start": 601.4925,
+        "end": 602.1925
+    },
+    {
+        "word": "NO",
+        "start": 602.3625,
+        "end": 602.4225
+    },
+    {
+        "word": "CHANDLER",
+        "start": 602.4225,
+        "end": 604.4525
+    },
+    {
+        "word": "THEY",
+        "start": 604.4525,
+        "end": 604.5925
+    },
+    {
+        "word": "COULD",
+        "start": 604.5925,
+        "end": 604.7725
+    },
+    {
+        "word": "SWALLOW",
+        "start": 604.7725,
+        "end": 605.2925
+    },
+    {
+        "word": "ONE",
+        "start": 605.2925,
+        "end": 605.4525
+    },
+    {
+        "word": "OF",
+        "start": 605.4525,
+        "end": 605.5325
+    },
+    {
+        "word": "THOSE",
+        "start": 605.5325,
+        "end": 605.7225
+    },
+    {
+        "word": "LITTLE",
+        "start": 605.7225,
+        "end": 606.0325
+    },
+    {
+        "word": "PARTS",
+        "start": 606.0325,
+        "end": 606.8325
+    },
+    {
+        "word": "AND",
+        "start": 606.8325,
+        "end": 606.9625
+    },
+    {
+        "word": "ALSO",
+        "start": 606.9625,
+        "end": 607.2125
+    },
+    {
+        "word": "LOOK",
+        "start": 607.2125,
+        "end": 607.4125
+    },
+    {
+        "word": "AT",
+        "start": 607.4125,
+        "end": 607.4925
+    },
+    {
+        "word": "HIS",
+        "start": 607.4925,
+        "end": 607.6225
+    },
+    {
+        "word": "SMOOTH",
+        "start": 607.6225,
+        "end": 608.0325
+    },
+    {
+        "word": "AREA",
+        "start": 608.0325,
+        "end": 608.4425
+    },
+    {
+        "word": "THAT'S",
+        "start": 608.4425,
+        "end": 608.7625
+    },
+    {
+        "word": "JUST",
+        "start": 608.7625,
+        "end": 608.9125
+    },
+    {
+        "word": "GOING",
+        "start": 608.9125,
+        "end": 609.0325
+    },
+    {
+        "word": "TO",
+        "start": 609.0325,
+        "end": 609.0925
+    },
+    {
+        "word": "MESS",
+        "start": 609.0925,
+        "end": 609.3425
+    },
+    {
+        "word": "THEM",
+        "start": 609.3425,
+        "end": 609.5825
+    },
+    {
+        "word": "UP",
+        "start": 610.0425,
+        "end": 610.5125
+    },
+    {
+        "word": "IT'S",
+        "start": 611.8225,
+        "end": 611.9925
+    },
+    {
+        "word": "JUST",
+        "start": 611.9925,
+        "end": 612.1625
+    },
+    {
+        "word": "NOT",
+        "start": 612.1625,
+        "end": 612.2825
+    },
+    {
+        "word": "AN",
+        "start": 612.2825,
+        "end": 612.3625
+    },
+    {
+        "word": "APPROPRIATE",
+        "start": 612.3625,
+        "end": 612.8625
+    },
+    {
+        "word": "TOY",
+        "start": 612.8625,
+        "end": 613.0725
+    },
+    {
+        "word": "FOR",
+        "start": 613.0725,
+        "end": 613.2225
+    },
+    {
+        "word": "ONE",
+        "start": 613.2225,
+        "end": 613.4325
+    },
+    {
+        "word": "YEAR",
+        "start": 613.4325,
+        "end": 613.6025
+    },
+    {
+        "word": "OLDS",
+        "start": 613.6025,
+        "end": 613.9425
+    },
+    {
+        "word": "OR",
+        "start": 614.1125,
+        "end": 614.2825
+    },
+    {
+        "word": "30",
+        "start": 614.2825,
+        "end": 614.5425
+    },
+    {
+        "word": "YEAR",
+        "start": 614.5425,
+        "end": 614.7125
+    },
+    {
+        "word": "OLDS",
+        "start": 614.7125,
+        "end": 615.0225
+    },
+    {
+        "word": "THEY'RE",
+        "start": 615.2025,
+        "end": 615.3425
+    },
+    {
+        "word": "NOT",
+        "start": 615.9225,
+        "end": 616.0825
+    },
+    {
+        "word": "GOING",
+        "start": 616.0825,
+        "end": 616.3325
+    },
+    {
+        "word": "TO",
+        "start": 616.3325,
+        "end": 616.4925
+    },
+    {
+        "word": "SWALLOW",
+        "start": 616.4925,
+        "end": 617.0125
+    },
+    {
+        "word": "ANYTHING",
+        "start": 617.0125,
+        "end": 617.2825
+    },
+    {
+        "word": "YOU",
+        "start": 617.2825,
+        "end": 617.3725
+    },
+    {
+        "word": "GUYS",
+        "start": 617.3725,
+        "end": 617.5325
+    },
+    {
+        "word": "ARE",
+        "start": 617.5325,
+        "end": 617.5625
+    },
+    {
+        "word": "BEING",
+        "start": 617.5625,
+        "end": 617.6825
+    },
+    {
+        "word": "WAY",
+        "start": 617.6825,
+        "end": 617.9325
+    },
+    {
+        "word": "TOO",
+        "start": 617.9325,
+        "end": 618.0625
+    },
+    {
+        "word": "OVER",
+        "start": 618.0625,
+        "end": 618.2425
+    },
+    {
+        "word": "PROTECTIVE",
+        "start": 618.2425,
+        "end": 618.9225
+    },
+    {
+        "word": "WHEN",
+        "start": 618.9225,
+        "end": 619.0125
+    },
+    {
+        "word": "I",
+        "start": 619.0125,
+        "end": 619.1025
+    },
+    {
+        "word": "WAS",
+        "start": 619.1025,
+        "end": 619.2425
+    },
+    {
+        "word": "A",
+        "start": 619.2425,
+        "end": 619.2725
+    },
+    {
+        "word": "KID",
+        "start": 619.2725,
+        "end": 619.5025
+    },
+    {
+        "word": "MY",
+        "start": 619.5025,
+        "end": 619.5925
+    },
+    {
+        "word": "MOM",
+        "start": 619.5925,
+        "end": 619.8125
+    },
+    {
+        "word": "USED",
+        "start": 619.8125,
+        "end": 619.9525
+    },
+    {
+        "word": "TO",
+        "start": 619.9525,
+        "end": 620.0125
+    },
+    {
+        "word": "JUST",
+        "start": 620.0125,
+        "end": 620.2525
+    },
+    {
+        "word": "THROW",
+        "start": 620.4525,
+        "end": 620.7925
+    },
+    {
+        "word": "ME",
+        "start": 620.7925,
+        "end": 620.9025
+    },
+    {
+        "word": "INTO",
+        "start": 620.9025,
+        "end": 621.0925
+    },
+    {
+        "word": "A",
+        "start": 621.0925,
+        "end": 621.1225
+    },
+    {
+        "word": "PILE",
+        "start": 621.1225,
+        "end": 621.4425
+    },
+    {
+        "word": "OF",
+        "start": 621.4425,
+        "end": 621.5025
+    },
+    {
+        "word": "BROKEN",
+        "start": 621.5025,
+        "end": 621.8625
+    },
+    {
+        "word": "GLASS",
+        "start": 621.8625,
+        "end": 622.4825
+    },
+    {
+        "word": "WHAT",
+        "start": 622.9725,
+        "end": 623.9525
+    },
+    {
+        "word": "GLASS",
+        "start": 624.4625,
+        "end": 624.9025
+    },
+    {
+        "word": "SAND",
+        "start": 624.9025,
+        "end": 625.4325
+    },
+    {
+        "word": "WHATEVER",
+        "start": 625.4325,
+        "end": 625.9125
+    },
+    {
+        "word": "OH",
+        "start": 625.9325,
+        "end": 625.9625
+    },
+    {
+        "word": "LOOK",
+        "start": 626.0325,
+        "end": 626.1625
+    },
+    {
+        "word": "AT",
+        "start": 626.1625,
+        "end": 627.4425
+    },
+    {
+        "word": "LITTLE",
+        "start": 628.9825,
+        "end": 629.9525
+    },
+    {
+        "word": "LESLIE",
+        "start": 629.9525,
+        "end": 630.3225
+    },
+    {
+        "word": "STRETCHING",
+        "start": 630.3225,
+        "end": 630.8425
+    },
+    {
+        "word": "IN",
+        "start": 630.8425,
+        "end": 630.9425
+    },
+    {
+        "word": "HER",
+        "start": 630.9425,
+        "end": 631.0225
+    },
+    {
+        "word": "SLEEP",
+        "start": 631.0225,
+        "end": 631.5725
+    },
+    {
+        "word": "OH",
+        "start": 631.7025,
+        "end": 631.9425
+    },
+    {
+        "word": "IT'S",
+        "start": 632.0125,
+        "end": 632.2625
+    },
+    {
+        "word": "SO",
+        "start": 632.2625,
+        "end": 632.3425
+    },
+    {
+        "word": "CUTE",
+        "start": 632.3425,
+        "end": 632.6925
+    },
+    {
+        "word": "I",
+        "start": 633.2125,
+        "end": 633.2725
+    },
+    {
+        "word": "WONDER",
+        "start": 633.2725,
+        "end": 633.4625
+    },
+    {
+        "word": "WHAT",
+        "start": 633.4625,
+        "end": 633.5725
+    },
+    {
+        "word": "AGE",
+        "start": 633.5725,
+        "end": 633.7825
+    },
+    {
+        "word": "IT",
+        "start": 633.7825,
+        "end": 633.8625
+    },
+    {
+        "word": "IS",
+        "start": 633.8625,
+        "end": 634.0125
+    },
+    {
+        "word": "THAT",
+        "start": 634.0125,
+        "end": 634.1325
+    },
+    {
+        "word": "YOU",
+        "start": 634.1325,
+        "end": 634.2025
+    },
+    {
+        "word": "STOP",
+        "start": 634.2025,
+        "end": 634.4725
+    },
+    {
+        "word": "BEING",
+        "start": 634.4725,
+        "end": 634.5925
+    },
+    {
+        "word": "ABLE",
+        "start": 634.5925,
+        "end": 634.7125
+    },
+    {
+        "word": "TO",
+        "start": 634.7125,
+        "end": 634.7725
+    },
+    {
+        "word": "PUT",
+        "start": 634.7725,
+        "end": 634.9425
+    },
+    {
+        "word": "BOTH",
+        "start": 634.9425,
+        "end": 635.1425
+    },
+    {
+        "word": "LEGS",
+        "start": 635.1925,
+        "end": 635.4525
+    },
+    {
+        "word": "BEHIND",
+        "start": 635.4525,
+        "end": 635.7325
+    },
+    {
+        "word": "YOUR",
+        "start": 635.7325,
+        "end": 635.8325
+    },
+    {
+        "word": "HEAD",
+        "start": 635.8325,
+        "end": 636.0825
+    },
+    {
+        "word": "OH",
+        "start": 636.3725,
+        "end": 636.5125
+    },
+    {
+        "word": "I",
+        "start": 636.5125,
+        "end": 636.6325
+    },
+    {
+        "word": "CAN",
+        "start": 636.6325,
+        "end": 636.7425
+    },
+    {
+        "word": "STILL",
+        "start": 636.7425,
+        "end": 636.9625
+    },
+    {
+        "word": "DO",
+        "start": 636.9625,
+        "end": 637.1725
+    },
+    {
+        "word": "THAT",
+        "start": 637.7025,
+        "end": 639.3825
+    },
+    {
+        "word": "HOW",
+        "start": 639.3825,
+        "end": 639.6625
+    },
+    {
+        "word": "ARE",
+        "start": 639.6625,
+        "end": 639.7525
+    },
+    {
+        "word": "YOU",
+        "start": 639.7525,
+        "end": 639.9025
+    },
+    {
+        "word": "STILL",
+        "start": 639.9025,
+        "end": 640.1325
+    },
+    {
+        "word": "SINGLE",
+        "start": 640.1325,
+        "end": 640.4525
+    },
+    {
+        "word": "ALL",
+        "start": 640.4525,
+        "end": 640.5325
+    },
+    {
+        "word": "RIGHT",
+        "start": 640.9725,
+        "end": 642.0825
+    },
+    {
+        "word": "I'VE",
+        "start": 643.6325,
+        "end": 643.8925
+    },
+    {
+        "word": "THOUGHT",
+        "start": 645.3625,
+        "end": 645.5625
+    },
+    {
+        "word": "ABOUT",
+        "start": 645.5625,
+        "end": 645.8425
+    },
+    {
+        "word": "IT",
+        "start": 645.8425,
+        "end": 645.9525
+    },
+    {
+        "word": "AND",
+        "start": 645.9525,
+        "end": 646.0425
+    },
+    {
+        "word": "MAYBE",
+        "start": 646.0425,
+        "end": 646.2325
+    },
+    {
+        "word": "YOU'RE",
+        "start": 646.2325,
+        "end": 646.3325
+    },
+    {
+        "word": "RIGHT",
+        "start": 646.3325,
+        "end": 646.6025
+    },
+    {
+        "word": "MAYBE",
+        "start": 646.6025,
+        "end": 646.8325
+    },
+    {
+        "word": "KROG",
+        "start": 646.8325,
+        "end": 647.2025
+    },
+    {
+        "word": "IS",
+        "start": 647.2025,
+        "end": 647.3225
+    },
+    {
+        "word": "NOT",
+        "start": 647.3225,
+        "end": 647.4825
+    },
+    {
+        "word": "A",
+        "start": 647.4825,
+        "end": 647.5125
+    },
+    {
+        "word": "SAFE",
+        "start": 647.5125,
+        "end": 647.8525
+    },
+    {
+        "word": "TOY",
+        "start": 647.8525,
+        "end": 648.1225
+    },
+    {
+        "word": "GOOD",
+        "start": 648.4025,
+        "end": 648.5625
+    },
+    {
+        "word": "WHAT",
+        "start": 648.5625,
+        "end": 648.6925
+    },
+    {
+        "word": "MADE",
+        "start": 648.6925,
+        "end": 648.8325
+    },
+    {
+        "word": "YOU",
+        "start": 648.8325,
+        "end": 648.8925
+    },
+    {
+        "word": "CHANGE",
+        "start": 648.8925,
+        "end": 649.0725
+    },
+    {
+        "word": "YOUR",
+        "start": 649.0725,
+        "end": 649.1625
+    },
+    {
+        "word": "MIND",
+        "start": 649.1625,
+        "end": 649.4325
+    },
+    {
+        "word": "I",
+        "start": 649.7725,
+        "end": 649.8525
+    },
+    {
+        "word": "SWALLOWED",
+        "start": 649.8525,
+        "end": 650.2325
+    },
+    {
+        "word": "HIS",
+        "start": 650.2325,
+        "end": 650.3225
+    },
+    {
+        "word": "SONIC",
+        "start": 650.3225,
+        "end": 650.6525
+    },
+    {
+        "word": "BLASTER",
+        "start": 650.6525,
+        "end": 651.0225
+    },
+    {
+        "word": "GUN",
+        "start": 651.0225,
+        "end": 651.2625
+    },
+    {
+        "word": "WHAT",
+        "start": 651.3325,
+        "end": 651.4925
+    },
+    {
+        "word": "HOW",
+        "start": 651.4925,
+        "end": 652.8625
+    },
+    {
+        "word": "DID",
+        "start": 653.2325,
+        "end": 653.3725
+    },
+    {
+        "word": "THAT",
+        "start": 653.3725,
+        "end": 653.6025
+    },
+    {
+        "word": "HAPPEN",
+        "start": 653.6025,
+        "end": 654.2325
+    },
+    {
+        "word": "WELL",
+        "start": 655.0225,
+        "end": 655.1125
+    },
+    {
+        "word": "I",
+        "start": 655.3025,
+        "end": 655.3725
+    },
+    {
+        "word": "WAS",
+        "start": 655.5625,
+        "end": 655.8625
+    },
+    {
+        "word": "TRYING",
+        "start": 655.8625,
+        "end": 656.0125
+    },
+    {
+        "word": "TO",
+        "start": 656.0125,
+        "end": 656.0725
+    },
+    {
+        "word": "PROVE",
+        "start": 656.0725,
+        "end": 656.2825
+    },
+    {
+        "word": "THAT",
+        "start": 656.2825,
+        "end": 656.3725
+    },
+    {
+        "word": "I",
+        "start": 656.3725,
+        "end": 656.4225
+    },
+    {
+        "word": "WAS",
+        "start": 656.4225,
+        "end": 656.5925
+    },
+    {
+        "word": "RIGHT",
+        "start": 656.5925,
+        "end": 656.9725
+    },
+    {
+        "word": "YOU",
+        "start": 657.1025,
+        "end": 657.2025
+    },
+    {
+        "word": "KNOW",
+        "start": 657.2025,
+        "end": 657.4725
+    },
+    {
+        "word": "AND",
+        "start": 657.4725,
+        "end": 657.6825
+    },
+    {
+        "word": "IT",
+        "start": 658.1925,
+        "end": 658.2525
+    },
+    {
+        "word": "TURNS",
+        "start": 658.2525,
+        "end": 658.4625
+    },
+    {
+        "word": "OUT",
+        "start": 658.4625,
+        "end": 658.5725
+    },
+    {
+        "word": "I",
+        "start": 658.5725,
+        "end": 658.6425
+    },
+    {
+        "word": "WAS",
+        "start": 658.6425,
+        "end": 658.8025
+    },
+    {
+        "word": "WRONG",
+        "start": 658.8025,
+        "end": 659.2025
+    },
+    {
+        "word": "AND",
+        "start": 659.2025,
+        "end": 660.0925
+    },
+    {
+        "word": "NOW",
+        "start": 660.4125,
+        "end": 660.5825
+    },
+    {
+        "word": "IT'S",
+        "start": 660.5825,
+        "end": 660.7325
+    },
+    {
+        "word": "LODGED",
+        "start": 660.7325,
+        "end": 661.0325
+    },
+    {
+        "word": "IN",
+        "start": 661.0325,
+        "end": 661.1025
+    },
+    {
+        "word": "MY",
+        "start": 661.1025,
+        "end": 661.2225
+    },
+    {
+        "word": "THROAT",
+        "start": 661.2225,
+        "end": 661.6525
+    },
+    {
+        "word": "DAMN",
+        "start": 662.0825,
+        "end": 662.8125
+    },
+    {
+        "word": "IT",
+        "start": 662.8125,
+        "end": 662.9325
+    },
+    {
+        "word": "YOU",
+        "start": 662.9325,
+        "end": 663.0525
+    },
+    {
+        "word": "KNOW",
+        "start": 663.0525,
+        "end": 663.2425
+    },
+    {
+        "word": "THIS",
+        "start": 663.2425,
+        "end": 663.4025
+    },
+    {
+        "word": "WHOLE",
+        "start": 665.1725,
+        "end": 665.3925
+    },
+    {
+        "word": "TIME",
+        "start": 666.2825,
+        "end": 672.4225
+    }
+]
