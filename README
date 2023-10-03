@@ -1,10 +1,25 @@
 # Cneuromod friends stimuli dataset
 
+This dataset comprises stimuli (video segments) and associated derivatives (language annotations) sourced from the [Friends TV show (1994 - 2004)](https://www.imdb.com/title/tt0108778/).
+
+## Friends Video Segments
+This section includes the .mkv video files, each containing approximately 12-minute segments from episodes across all 6 seasons of Friends. Accompanying these video segments is a set of Bash scripts used for segmenting the data. The purpose of segmenting the data was to create video clips of convenient duration for subjects to watch during fMRI scans.
+
+## Language Annotations
+This dataset includes language annotations in both .json and .tsv formats, derived from the dialogues within Friends episodes as originally presented in the DVDs. 
+
+### Forced-Alignment
+To obtain the language annotations, the dialouges were subjected to a sequence of manual and automated data preprocessing steps, followed by a force alignment procedure. The force alignment was achieved by aligning the words in the dialogues with the corresponding audio in each episode via a Python library (https://github.com/zacandcheese/align_friends), which uses an automatic phonetic alignment toolkit [The Penn Phonetics Lab Forced Aligner](https://babel.ling.upenn.edu/phonetics/old_website_2015/p2fa/index.html) based on the [The Hidden Markov Model Toolkit](https://htk.eng.cam.ac.uk/).
+
+### Full transcripts
+In addition to the alignment files, two CSV files containing full transcripts of dialogues from all 10 seasons of Friends are provided, as `original_friends_transcripts.csv` refers to the transcripts from the original DVDs, while `crowd_sourced_friends_transcripts.csv` contains the crowd-sourced (https://fangj.github.io/friends/) data. The structure of the utterances extracted from the original DVDs remains unchanged; hence, the number and structure of utterances may differ between the original and crowd-sourced transcripts.
+
+### Exploratory Analysis
+A Jupyter notebook `Friends_Transcripts_Analysis.ipynb` is also included, offering descriptive statistics regarding word usage, dialogue characteristics, token distribution, and narrator attributes within the dataset. Various figures are included to facilitate further exploration of the dataset.
+
+## Data Copyright
+
 The CNeuroMod data and their derivatives are shared under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/legalcode) that is under the ownership of the CNeuroMod team and the participants.
-
-The data contains language annotations (force-aligned time-stamps for each of the word)for the transcript extracted from the original Friends DVDs. Alongside the alignment we also provide two csv files which contain the full transcripts obtained from the DVDs and crowd-sourced transcript. The structure of the utterances extracted from the original DVDs were maintained as original, therefore the number of utterances of the orignal and crowd-sourced transcripts might differ. 
-
-
 
 This dataset contains copyrighted material and thus, those materials are not covered by the license listed above. The materials in question are shared only for the purpose of scientific research, and  this use case falls under Canada’s Fair Dealing policy on use of copyrighted materials. However,  the proper use of copyrighted materials may vary depending on countries and use cases. Please check each dataset carefully prior to use and acquire a legal copy if necessary.
 The scripts required to regenerate stimuli files from raw commercial products can be found in this repository.
