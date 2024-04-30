@@ -4,3 +4,28 @@ The CNeuroMod data and their derivatives are shared under a [CC0 license](https:
 
 This dataset contains copyrighted material and thus, those materials are not covered by the license listed above. The materials in question are shared only for the purpose of scientific research, and  this use case falls under Canada’s Fair Dealing policy on use of copyrighted materials. However,  the proper use of copyrighted materials may vary depending on countries and use cases. Please check each dataset carefully prior to use and acquire a legal copy if necessary.
 The scripts required to regenerate stimuli files from raw commercial products can be found in this repository.
+
+
+## Language Annotations
+
+The `friends` language annotation dataset is extracted for the naturalistic stimuli set [friends](https://github.com/courtois-neuromod/friends.stimuli). The annotations were extracted using [AssemblyAI](https://www.assemblyai.com/). Annotations were structured into a `.json` file format, associating each audio or video file of the data with its own `json` file. Each `json` file contains the whole `transcript`, each single `word`, its `start` and `end` time points in seconds, and `confidence`, the probability value AssemblyAI gives regarding its success rate in identifying the word from the audio.
+
+```
+{"results":
+    {"channels":
+        [{"alternatives":
+            [{"transcript": "There's nothing to tell. Just some guy I work with. Come on, you're ...
+                "words":
+                        [{"word": "There's",
+                            "start": 18.97,
+                            "end": 19.146,
+                            "Confidence": 0.6398
+                        }]
+            }]
+        }]
+    }
+}
+```
+
+The `dataset_description.json` file where we provide a generic description about the dataset, a simple exploratory statistical analysis of the words and token counts and the version of the annotation extraction tool is used.
+
