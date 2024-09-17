@@ -1,0 +1,18 @@
+{
+    "Name": "Friends language annotations",
+    "Dataset": {
+        "Format": "One .tsv file per each .wav file which gives word by word word time stamps.",
+        "Content": "Each .tsv file contains the entire transcript and word specific attributes.",
+        "Data": {
+            "word": "Aligned word passing in the transcripts extracted from the original DVDs.",
+            "onset": "The onset of the aligned word",
+            "offset": "The offset of the aligned word",
+            "duration": "The duration of the aligned word"
+        }
+    },
+"AssemblyAI": {
+    "language_code": "en_us",
+    "version" : "0.20.02",
+    "link": "https://www.assemblyai.com/"
+}
+}
