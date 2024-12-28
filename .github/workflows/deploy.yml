@@ -5,6 +5,8 @@ on:
   pull_request:
     branches: [ main ]
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 1,15 * *"
 jobs:
   deploy_linux:
     uses: courtois-neuromod/actions-template/.github/workflows/deploy.yml@main
